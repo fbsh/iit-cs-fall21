@@ -1,0 +1,1000 @@
+{"issue_number": 12133, "created_at": "2021-11-19", "closed_at": "2021-11-19", "labels": ["type: docs", "resolution: invalid", "needs triage"], "State": "closed", "Author": "mcq-test"}
+{"issue_number": 12127, "created_at": "2021-10-19", "closed_at": "2021-10-19", "labels": ["resolution: invalid"], "State": "closed", "Author": "chakrachi"}
+{"issue_number": 12126, "created_at": "2021-10-06", "closed_at": null, "labels": ["type: bug", "severity: regression", "P3: important"], "State": "open", "Author": "mockenoff"}
+{"issue_number": 12125, "created_at": "2021-10-06", "closed_at": "2021-10-06", "labels": ["type: bug", "resolution: invalid"], "State": "closed", "Author": "shaya-tabit"}
+{"issue_number": 12120, "created_at": "2021-09-03", "closed_at": "2021-11-18", "labels": ["resolution: can't reproduce"], "State": "closed", "Author": "cristian1975"}
+{"issue_number": 12119, "created_at": "2021-08-20", "closed_at": "2021-08-20", "labels": ["type: docs"], "State": "closed", "Author": "gubo"}
+{"issue_number": 12118, "created_at": "2021-08-08", "closed_at": null, "labels": ["type: bug", "P2: required"], "State": "open", "Author": "j-walker23"}
+{"issue_number": 12116, "created_at": "2021-07-13", "closed_at": "2021-07-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "rodavid5"}
+{"issue_number": 12114, "created_at": "2021-07-05", "closed_at": null, "labels": ["type: build", "P2: required"], "State": "open", "Author": "Splaktar"}
+{"issue_number": 12113, "created_at": "2021-07-05", "closed_at": null, "labels": ["type: build", "P4: minor"], "State": "open", "Author": "Splaktar"}
+{"issue_number": 12110, "created_at": "2021-06-11", "closed_at": "2021-06-12", "labels": ["resolution: invalid"], "State": "closed", "Author": "cfoxy17"}
+{"issue_number": 12109, "created_at": "2021-06-11", "closed_at": "2021-06-12", "labels": ["resolution: invalid"], "State": "closed", "Author": "cfoxy17"}
+{"issue_number": 12108, "created_at": "2021-06-11", "closed_at": "2021-06-12", "labels": ["resolution: invalid"], "State": "closed", "Author": "cfoxy17"}
+{"issue_number": 12107, "created_at": "2021-06-11", "closed_at": "2021-06-12", "labels": ["resolution: invalid"], "State": "closed", "Author": "cfoxy17"}
+{"issue_number": 12106, "created_at": "2021-06-11", "closed_at": "2021-06-12", "labels": ["resolution: invalid"], "State": "closed", "Author": "cfoxy17"}
+{"issue_number": 12105, "created_at": "2021-06-11", "closed_at": "2021-06-12", "labels": ["resolution: invalid"], "State": "closed", "Author": "cfoxy17"}
+{"issue_number": 12104, "created_at": "2021-06-11", "closed_at": "2021-06-12", "labels": ["resolution: invalid"], "State": "closed", "Author": "cfoxy17"}
+{"issue_number": 12100, "created_at": "2021-05-24", "closed_at": null, "labels": ["type: bug", "i18n: bi-directional", "needs: demo"], "State": "open", "Author": "frkfir"}
+{"issue_number": 12098, "created_at": "2021-05-17", "closed_at": null, "labels": ["type: bug", "type: performance", "P3: important"], "State": "open", "Author": "aman-kumayu"}
+{"issue_number": 12096, "created_at": "2021-05-11", "closed_at": "2021-05-11", "labels": ["type: bug", "resolution: invalid", "needs triage"], "State": "closed", "Author": "hegigj"}
+{"issue_number": 12095, "created_at": "2021-05-10", "closed_at": "2021-05-10", "labels": ["type: bug", "needs triage"], "State": "closed", "Author": "cty945"}
+{"issue_number": 12091, "created_at": "2021-04-20", "closed_at": null, "labels": ["needs: investigation", "needs triage"], "State": "open", "Author": "ewahner"}
+{"issue_number": 12090, "created_at": "2021-04-13", "closed_at": "2021-06-03", "labels": ["needs: feedback"], "State": "closed", "Author": "lakinmohapatra"}
+{"issue_number": 12088, "created_at": "2021-04-07", "closed_at": "2021-06-03", "labels": ["type: bug", "needs: demo", "needs: feedback"], "State": "closed", "Author": "ewahner"}
+{"issue_number": 12081, "created_at": "2021-02-25", "closed_at": "2021-04-07", "labels": ["type: bug", "browser: IE", "resolution: invalid"], "State": "closed", "Author": "pgarge"}
+{"issue_number": 12078, "created_at": "2021-02-16", "closed_at": "2021-02-16", "labels": ["type: bug", "needs triage"], "State": "closed", "Author": "ATAMAH"}
+{"issue_number": 12077, "created_at": "2021-02-15", "closed_at": "2021-02-15", "labels": ["type: bug", "resolution: invalid", "needs triage"], "State": "closed", "Author": "manumohananmkm"}
+{"issue_number": 12075, "created_at": "2021-01-26", "closed_at": "2021-07-08", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P2: required", "has: Pull Request"], "State": "closed", "Author": "TemitaTom"}
+{"issue_number": 12072, "created_at": "2021-01-18", "closed_at": "2021-01-19", "labels": ["resolution: invalid"], "State": "closed", "Author": "Ric-01"}
+{"issue_number": 12071, "created_at": "2021-01-18", "closed_at": "2021-01-18", "labels": ["resolution: invalid"], "State": "closed", "Author": "templth"}
+{"issue_number": 12070, "created_at": "2021-01-12", "closed_at": "2021-01-12", "labels": ["resolution: invalid"], "State": "closed", "Author": "rahulvish1364"}
+{"issue_number": 12056, "created_at": "2020-12-11", "closed_at": "2020-12-12", "labels": ["resolution: invalid"], "State": "closed", "Author": "Go-kul-S"}
+{"issue_number": 12054, "created_at": "2020-12-10", "closed_at": "2020-12-16", "labels": ["resolution: fixed", "a11y", "ui: focus", "P3: important", "has: Pull Request"], "State": "closed", "Author": "SemLR"}
+{"issue_number": 12052, "created_at": "2020-12-08", "closed_at": "2020-12-09", "labels": ["type: bug", "resolution: duplicate"], "State": "closed", "Author": "ba55ie"}
+{"issue_number": 12051, "created_at": "2020-12-07", "closed_at": "2020-12-14", "labels": ["a11y", "ui: focus", "resolution: works as expected"], "State": "closed", "Author": "ChaniFruchtman"}
+{"issue_number": 12046, "created_at": "2020-11-12", "closed_at": "2020-11-16", "labels": ["type: bug", "a11y", "P2: required", "has: Pull Request"], "State": "closed", "Author": "sharonlevyex"}
+{"issue_number": 12044, "created_at": "2020-11-09", "closed_at": "2020-11-14", "labels": ["resolution: works as expected"], "State": "closed", "Author": "Tadas1987"}
+{"issue_number": 12043, "created_at": "2020-11-08", "closed_at": "2020-12-17", "labels": ["type: bug", "resolution: fixed", "a11y", "P3: important", "has: Pull Request"], "State": "closed", "Author": "sharonlevyex"}
+{"issue_number": 12040, "created_at": "2020-10-29", "closed_at": null, "labels": ["os: iOS", "P3: important"], "State": "open", "Author": "viktorzavadil"}
+{"issue_number": 12029, "created_at": "2020-10-07", "closed_at": "2020-10-16", "labels": ["ui: layout", "resolution: works as expected"], "State": "closed", "Author": "LabN36"}
+{"issue_number": 12028, "created_at": "2020-10-06", "closed_at": "2020-10-12", "labels": ["type: bug", "resolution: fixed", "i18n: localization", "P2: required", "has: Pull Request"], "State": "closed", "Author": "nicklastromb"}
+{"issue_number": 12026, "created_at": "2020-10-05", "closed_at": "2020-10-12", "labels": ["resolution: fixed", "needs: more info", "has: Pull Request"], "State": "closed", "Author": "ghost"}
+{"issue_number": 12025, "created_at": "2020-10-05", "closed_at": "2020-10-05", "labels": ["type: bug", "resolution: fixed", "i18n: localization", "P2: required", "has: Pull Request"], "State": "closed", "Author": "nicklastromb"}
+{"issue_number": 12024, "created_at": "2020-09-24", "closed_at": "2020-09-24", "labels": ["resolution: duplicate"], "State": "closed", "Author": "Marcusg62"}
+{"issue_number": 12008, "created_at": "2020-09-03", "closed_at": "2020-09-06", "labels": ["resolution: invalid"], "State": "closed", "Author": "rajithsam"}
+{"issue_number": 12005, "created_at": "2020-08-31", "closed_at": "2020-08-31", "labels": ["resolution: invalid"], "State": "closed", "Author": "saurabhsingh1003"}
+{"issue_number": 12000, "created_at": "2020-08-28", "closed_at": "2020-08-31", "labels": ["type: bug", "resolution: fixed", "i18n: localization", "P2: required", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11998, "created_at": "2020-08-14", "closed_at": "2020-08-14", "labels": ["resolution: invalid"], "State": "closed", "Author": "Jagan494"}
+{"issue_number": 11997, "created_at": "2020-08-13", "closed_at": "2020-08-13", "labels": ["resolution: duplicate", "ui: theme"], "State": "closed", "Author": "shyambhiogade"}
+{"issue_number": 11996, "created_at": "2020-08-06", "closed_at": "2020-08-06", "labels": [], "State": "closed", "Author": "p3x-robot"}
+{"issue_number": 11995, "created_at": "2020-08-06", "closed_at": "2020-12-09", "labels": ["ui: CSS", "P3: important"], "State": "closed", "Author": "oliversalzburg"}
+{"issue_number": 11990, "created_at": "2020-07-31", "closed_at": "2020-07-31", "labels": ["resolution: invalid"], "State": "closed", "Author": "tototares"}
+{"issue_number": 11984, "created_at": "2020-07-28", "closed_at": "2020-07-29", "labels": ["resolution: duplicate"], "State": "closed", "Author": "AndreasHo"}
+{"issue_number": 11975, "created_at": "2020-07-23", "closed_at": null, "labels": ["type: enhancement", "ui: theme", "g3: reported", "P3: important", "os: Windows"], "State": "open", "Author": "kittenish"}
+{"issue_number": 11974, "created_at": "2020-07-22", "closed_at": "2020-07-30", "labels": ["type: bug", "a11y", "g3: reported", "P2: required", "has: Pull Request"], "State": "closed", "Author": "kittenish"}
+{"issue_number": 11973, "created_at": "2020-07-22", "closed_at": "2020-07-30", "labels": ["type: bug", "a11y", "g3: reported", "P2: required", "has: Pull Request"], "State": "closed", "Author": "kittenish"}
+{"issue_number": 11969, "created_at": "2020-07-21", "closed_at": "2020-07-22", "labels": ["type: bug", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Axeldorf"}
+{"issue_number": 11966, "created_at": "2020-07-16", "closed_at": "2020-07-22", "labels": ["type: bug", "ui: CSS", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11963, "created_at": "2020-07-16", "closed_at": "2020-08-31", "labels": ["type: bug", "resolution: fixed", "i18n: localization", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "vdury"}
+{"issue_number": 11962, "created_at": "2020-07-16", "closed_at": "2020-09-20", "labels": ["needs: demo", "resolution: can't reproduce", "g3: reported", "os: macOS"], "State": "closed", "Author": "opozo"}
+{"issue_number": 11960, "created_at": "2020-07-15", "closed_at": "2020-09-18", "labels": ["type: bug", "resolution: fixed", "a11y", "g3: reported", "P2: required", "has: Pull Request"], "State": "closed", "Author": "kittenish"}
+{"issue_number": 11954, "created_at": "2020-07-06", "closed_at": "2020-07-06", "labels": ["resolution: invalid"], "State": "closed", "Author": "nitin15j"}
+{"issue_number": 11952, "created_at": "2020-06-30", "closed_at": null, "labels": ["needs: demo"], "State": "open", "Author": "ghost"}
+{"issue_number": 11946, "created_at": "2020-06-22", "closed_at": "2020-06-23", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11945, "created_at": "2020-06-22", "closed_at": "2020-06-29", "labels": ["i18n: localization", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "froque"}
+{"issue_number": 11943, "created_at": "2020-06-18", "closed_at": "2020-06-19", "labels": [], "State": "closed", "Author": "angelvk83"}
+{"issue_number": 11941, "created_at": "2020-06-17", "closed_at": "2020-06-18", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11932, "created_at": "2020-06-08", "closed_at": "2020-11-15", "labels": ["P5: nice to have", "Blocked", "resolution: too risky"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11931, "created_at": "2020-06-08", "closed_at": "2020-07-25", "labels": ["type: docs", "P2: required", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11927, "created_at": "2020-06-04", "closed_at": "2020-06-15", "labels": ["type: bug", "resolution: fixed", "a11y", "severity: regression", "P2: required", "has: Pull Request"], "State": "closed", "Author": "ccn974"}
+{"issue_number": 11926, "created_at": "2020-06-04", "closed_at": "2020-06-04", "labels": [], "State": "closed", "Author": "foman"}
+{"issue_number": 11923, "created_at": "2020-05-29", "closed_at": "2020-07-30", "labels": ["type: bug", "a11y", "P2: required", "has: Pull Request"], "State": "closed", "Author": "satishsan"}
+{"issue_number": 11919, "created_at": "2020-05-27", "closed_at": "2020-06-17", "labels": ["type: bug", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11914, "created_at": "2020-05-18", "closed_at": "2020-05-21", "labels": ["type: bug", "severity: regression", "P2: required", "has: Pull Request"], "State": "closed", "Author": "p3x-robot"}
+{"issue_number": 11913, "created_at": "2020-05-17", "closed_at": "2020-07-17", "labels": ["P5: nice to have"], "State": "closed", "Author": "cebor"}
+{"issue_number": 11910, "created_at": "2020-05-14", "closed_at": "2020-08-03", "labels": ["needs: feedback"], "State": "closed", "Author": "Mike-Bauer"}
+{"issue_number": 11908, "created_at": "2020-05-13", "closed_at": "2020-05-15", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Nickproger"}
+{"issue_number": 11907, "created_at": "2020-05-12", "closed_at": "2020-05-12", "labels": [], "State": "closed", "Author": "Mike-Bauer"}
+{"issue_number": 11897, "created_at": "2020-04-29", "closed_at": "2020-04-30", "labels": ["needs: more info", "resolution: invalid"], "State": "closed", "Author": "PalakjainJain"}
+{"issue_number": 11885, "created_at": "2020-04-09", "closed_at": "2020-04-22", "labels": ["needs: demo", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11882, "created_at": "2020-03-18", "closed_at": "2020-03-18", "labels": ["resolution: duplicate"], "State": "closed", "Author": "alexmitu"}
+{"issue_number": 11878, "created_at": "2020-03-13", "closed_at": "2020-06-08", "labels": ["resolution: fixed", "type: chore", "P2: required"], "State": "closed", "Author": "oliversalzburg"}
+{"issue_number": 11873, "created_at": "2020-03-10", "closed_at": "2020-03-12", "labels": ["type: chore", "P2: required", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11869, "created_at": "2020-03-06", "closed_at": "2020-07-27", "labels": ["type: build", "P3: important"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11866, "created_at": "2020-03-05", "closed_at": "2020-03-05", "labels": ["resolution: invalid"], "State": "closed", "Author": "KulikovDO"}
+{"issue_number": 11865, "created_at": "2020-02-26", "closed_at": null, "labels": ["P5: nice to have"], "State": "open", "Author": "codymikol"}
+{"issue_number": 11859, "created_at": "2020-02-16", "closed_at": "2020-11-15", "labels": ["needs: demo", "needs: more info", "resolution: can't reproduce"], "State": "closed", "Author": "zuhairamahdi"}
+{"issue_number": 11854, "created_at": "2020-02-02", "closed_at": "2020-03-06", "labels": ["type: bug", "resolution: fixed", "P3: important", "has: Pull Request"], "State": "closed", "Author": "psamim"}
+{"issue_number": 11852, "created_at": "2020-01-30", "closed_at": "2020-03-13", "labels": ["type: bug", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11851, "created_at": "2020-01-29", "closed_at": null, "labels": ["type: enhancement", "P4: minor"], "State": "open", "Author": "TheManuz"}
+{"issue_number": 11849, "created_at": "2020-01-24", "closed_at": null, "labels": ["type: bug", "needs: investigation", "P4: minor"], "State": "open", "Author": "oliversalzburg"}
+{"issue_number": 11848, "created_at": "2020-01-24", "closed_at": "2020-01-25", "labels": ["resolution: invalid"], "State": "closed", "Author": "blumk"}
+{"issue_number": 11847, "created_at": "2020-01-23", "closed_at": "2020-04-30", "labels": ["type: enhancement", "resolution: fixed", "P3: important", "has: Pull Request"], "State": "closed", "Author": "oliversalzburg"}
+{"issue_number": 11842, "created_at": "2020-01-13", "closed_at": null, "labels": ["type: bug", "needs: investigation", "P3: important"], "State": "open", "Author": "sunnyjhon2020"}
+{"issue_number": 11835, "created_at": "2020-01-07", "closed_at": "2020-01-09", "labels": ["resolution: invalid"], "State": "closed", "Author": "elazarza"}
+{"issue_number": 11834, "created_at": "2020-01-03", "closed_at": "2020-01-06", "labels": ["resolution: duplicate"], "State": "closed", "Author": "sandeepmhaske"}
+{"issue_number": 11831, "created_at": "2019-12-26", "closed_at": "2019-12-27", "labels": ["resolution: invalid"], "State": "closed", "Author": "SubhasisDebsharma"}
+{"issue_number": 11830, "created_at": "2019-12-23", "closed_at": "2019-12-27", "labels": ["type: enhancement", "resolution: won't fix"], "State": "closed", "Author": "nlenoire"}
+{"issue_number": 11829, "created_at": "2019-12-19", "closed_at": "2020-11-15", "labels": ["needs: demo", "browser: IE", "resolution: can't reproduce"], "State": "closed", "Author": "skulll888"}
+{"issue_number": 11828, "created_at": "2019-12-10", "closed_at": null, "labels": ["type: bug", "needs: investigation", "P4: minor"], "State": "open", "Author": "Vadymchyk"}
+{"issue_number": 11827, "created_at": "2019-11-27", "closed_at": null, "labels": ["type: bug", "needs: investigation", "P3: important"], "State": "open", "Author": "srikanthpullela"}
+{"issue_number": 11824, "created_at": "2019-11-21", "closed_at": "2020-04-27", "labels": ["needs: feedback"], "State": "closed", "Author": "sviams"}
+{"issue_number": 11821, "created_at": "2019-11-13", "closed_at": "2020-11-15", "labels": ["needs: demo", "type: performance", "resolution: can't reproduce", "severity: performance"], "State": "closed", "Author": "UoToGK"}
+{"issue_number": 11820, "created_at": "2019-11-12", "closed_at": "2019-11-12", "labels": ["resolution: invalid"], "State": "closed", "Author": "fritzschoff"}
+{"issue_number": 11814, "created_at": "2019-10-25", "closed_at": "2019-11-02", "labels": ["resolution: works as expected"], "State": "closed", "Author": "GTarifshabbir"}
+{"issue_number": 11813, "created_at": "2019-10-24", "closed_at": "2020-03-07", "labels": ["type: bug", "resolution: fixed", "browser: IE", "P3: important"], "State": "closed", "Author": "molehillrocker"}
+{"issue_number": 11812, "created_at": "2019-10-23", "closed_at": "2020-04-11", "labels": ["type: bug", "resolution: fixed", "ui: CSS", "ux: polish", "P2: required", "has: Pull Request"], "State": "closed", "Author": "bersLucas"}
+{"issue_number": 11810, "created_at": "2019-10-16", "closed_at": "2019-10-22", "labels": ["resolution: invalid"], "State": "closed", "Author": "jesus-soria"}
+{"issue_number": 11809, "created_at": "2019-10-11", "closed_at": "2019-10-22", "labels": ["resolution: invalid"], "State": "closed", "Author": "SenadinBotic"}
+{"issue_number": 11805, "created_at": "2019-09-30", "closed_at": "2019-09-30", "labels": [], "State": "closed", "Author": "sivakrrish1994"}
+{"issue_number": 11800, "created_at": "2019-09-25", "closed_at": "2020-06-17", "labels": ["type: bug", "resolution: fixed", "P2: required", "has: Pull Request"], "State": "closed", "Author": "Thaina"}
+{"issue_number": 11797, "created_at": "2019-09-20", "closed_at": null, "labels": ["type: enhancement", "P4: minor"], "State": "open", "Author": "Thaina"}
+{"issue_number": 11793, "created_at": "2019-09-09", "closed_at": "2020-09-21", "labels": ["type: bug", "ui: mobile", "resolution: can't reproduce", "os: iOS", "severity: regression", "ux: polish", "P2: required"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11791, "created_at": "2019-09-07", "closed_at": null, "labels": ["type: bug", "a11y", "type: gestures", "browser: Safari", "os: iOS", "g3: reported", "P3: important"], "State": "open", "Author": "Splaktar"}
+{"issue_number": 11790, "created_at": "2019-09-05", "closed_at": "2019-09-05", "labels": ["resolution: invalid"], "State": "closed", "Author": "JohnTranstel"}
+{"issue_number": 11789, "created_at": "2019-09-04", "closed_at": "2020-12-16", "labels": ["type: enhancement", "resolution: fixed", "a11y", "i18n: localization", "g3: reported", "P2: required", "has: Pull Request"], "State": "closed", "Author": "mkowalchuk"}
+{"issue_number": 11788, "created_at": "2019-09-04", "closed_at": "2020-11-15", "labels": ["needs: demo", "needs: feedback", "resolution: can't reproduce"], "State": "closed", "Author": "kslo88"}
+{"issue_number": 11786, "created_at": "2019-08-26", "closed_at": null, "labels": ["needs: investigation", "os: iOS", "severity: regression", "P3: important"], "State": "open", "Author": "Splaktar"}
+{"issue_number": 11784, "created_at": "2019-08-26", "closed_at": "2019-09-01", "labels": ["resolution: works as expected"], "State": "closed", "Author": "2shapesaitor"}
+{"issue_number": 11780, "created_at": "2019-08-23", "closed_at": "2019-08-26", "labels": ["resolution: fixed", "type: docs", "P2: required", "has: Pull Request"], "State": "closed", "Author": "neilsh"}
+{"issue_number": 11779, "created_at": "2019-08-23", "closed_at": "2019-08-23", "labels": ["resolution: invalid"], "State": "closed", "Author": "ivanivanyuk1993axelot"}
+{"issue_number": 11778, "created_at": "2019-08-22", "closed_at": "2019-08-26", "labels": ["type: bug", "resolution: fixed", "type: gestures", "severity: regression", "g3: reported", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "jelbourn"}
+{"issue_number": 11776, "created_at": "2019-08-19", "closed_at": "2020-03-05", "labels": ["type: bug", "resolution: fixed", "browser: IE", "P2: required", "has: Pull Request"], "State": "closed", "Author": "nathanael-bice"}
+{"issue_number": 11775, "created_at": "2019-08-13", "closed_at": "2020-03-20", "labels": ["resolution: fixed", "browser: Chrome", "P4: minor"], "State": "closed", "Author": "codymikol"}
+{"issue_number": 11773, "created_at": "2019-08-12", "closed_at": "2019-08-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "CharlieUPB"}
+{"issue_number": 11772, "created_at": "2019-08-09", "closed_at": "2019-08-09", "labels": ["resolution: works as expected"], "State": "closed", "Author": "oliversalzburg"}
+{"issue_number": 11770, "created_at": "2019-08-07", "closed_at": null, "labels": ["type: bug", "a11y", "needs: investigation", "P2: required", "os: Android"], "State": "open", "Author": "Splaktar"}
+{"issue_number": 11768, "created_at": "2019-08-05", "closed_at": "2019-08-13", "labels": ["type: bug", "resolution: fixed", "a11y", "P1: urgent", "has: Pull Request", "os: Android"], "State": "closed", "Author": "vbraun"}
+{"issue_number": 11767, "created_at": "2019-08-01", "closed_at": "2020-07-31", "labels": ["type: bug", "a11y", "- Breaking Change", "P3: important", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11766, "created_at": "2019-08-01", "closed_at": "2020-03-06", "labels": ["type: bug", "a11y", "g3: reported", "P2: required", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11765, "created_at": "2019-07-26", "closed_at": "2019-07-29", "labels": ["needs: demo", "needs: more info", "resolution: works as expected"], "State": "closed", "Author": "true-doc"}
+{"issue_number": 11764, "created_at": "2019-07-23", "closed_at": "2019-07-23", "labels": ["resolution: invalid"], "State": "closed", "Author": "GlauberF"}
+{"issue_number": 11762, "created_at": "2019-07-17", "closed_at": "2020-12-16", "labels": ["type: enhancement", "resolution: fixed", "a11y", "g3: reported", "P2: required", "has: Pull Request"], "State": "closed", "Author": "mkowalchuk"}
+{"issue_number": 11760, "created_at": "2019-07-12", "closed_at": null, "labels": ["type: bug", "needs: investigation", "P3: important"], "State": "open", "Author": "dredlich"}
+{"issue_number": 11759, "created_at": "2019-07-05", "closed_at": "2019-11-03", "labels": ["type: bug", "type: docs", "for: internal contributor", "ux: polish", "P3: important"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11756, "created_at": "2019-06-27", "closed_at": "2020-03-13", "labels": ["type: bug", "a11y", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "gauravlodha"}
+{"issue_number": 11753, "created_at": "2019-06-25", "closed_at": null, "labels": ["type: performance", "needs: investigation", "P2: required"], "State": "open", "Author": "marvelsrp"}
+{"issue_number": 11751, "created_at": "2019-06-25", "closed_at": "2019-07-10", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P2: required", "has: Pull Request"], "State": "closed", "Author": "norkunas"}
+{"issue_number": 11750, "created_at": "2019-06-21", "closed_at": "2019-07-21", "labels": ["needs: demo", "needs: more info"], "State": "closed", "Author": "Samerkassem"}
+{"issue_number": 11748, "created_at": "2019-06-19", "closed_at": "2019-08-26", "labels": ["needs: demo"], "State": "closed", "Author": "p3pp8"}
+{"issue_number": 11747, "created_at": "2019-06-18", "closed_at": "2020-03-05", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "KaeMoNee"}
+{"issue_number": 11745, "created_at": "2019-06-14", "closed_at": "2019-07-10", "labels": ["type: bug", "resolution: fixed", "browser: IE", "severity: regression", "P2: required", "has: Pull Request"], "State": "closed", "Author": "gauravlodha"}
+{"issue_number": 11742, "created_at": "2019-06-11", "closed_at": "2019-08-16", "labels": ["type: bug", "resolution: fixed", "a11y", "g3: reported", "P2: required", "has: Pull Request"], "State": "closed", "Author": "mkowalchuk"}
+{"issue_number": 11741, "created_at": "2019-06-06", "closed_at": "2019-06-12", "labels": ["needs: more info"], "State": "closed", "Author": "Lw-d"}
+{"issue_number": 11738, "created_at": "2019-06-03", "closed_at": "2019-06-03", "labels": ["resolution: invalid"], "State": "closed", "Author": "MosALs"}
+{"issue_number": 11734, "created_at": "2019-05-30", "closed_at": "2019-05-30", "labels": ["resolution: invalid"], "State": "closed", "Author": "jewelsmu"}
+{"issue_number": 11733, "created_at": "2019-05-26", "closed_at": "2019-05-30", "labels": ["resolution: works as expected"], "State": "closed", "Author": "rahimnagori"}
+{"issue_number": 11732, "created_at": "2019-05-24", "closed_at": "2019-05-24", "labels": ["resolution: invalid"], "State": "closed", "Author": "AmyeeTechnology"}
+{"issue_number": 11731, "created_at": "2019-05-24", "closed_at": "2019-05-24", "labels": ["resolution: invalid"], "State": "closed", "Author": "nstepan"}
+{"issue_number": 11730, "created_at": "2019-05-24", "closed_at": "2019-05-24", "labels": ["resolution: invalid"], "State": "closed", "Author": "rahimnagori"}
+{"issue_number": 11727, "created_at": "2019-05-21", "closed_at": null, "labels": ["type: build", "needs: investigation", "g3: reported", "P4: minor"], "State": "open", "Author": "Splaktar"}
+{"issue_number": 11725, "created_at": "2019-05-18", "closed_at": "2019-05-30", "labels": ["type: bug", "resolution: fixed", "ui: mobile", "browser: Safari", "os: iOS", "browser: Chrome", "severity: regression", "P1: urgent", "has: Pull Request", "os: Android"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11721, "created_at": "2019-05-13", "closed_at": "2019-05-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "RajdeepSenGupta"}
+{"issue_number": 11720, "created_at": "2019-05-12", "closed_at": "2019-05-16", "labels": [], "State": "closed", "Author": "aRagabCs"}
+{"issue_number": 11717, "created_at": "2019-05-09", "closed_at": "2019-05-09", "labels": ["resolution: invalid"], "State": "closed", "Author": "sambsa"}
+{"issue_number": 11716, "created_at": "2019-05-07", "closed_at": "2020-12-16", "labels": ["type: docs", "P3: important"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11715, "created_at": "2019-05-02", "closed_at": "2019-05-09", "labels": ["resolution: invalid"], "State": "closed", "Author": "UmutAkkaya"}
+{"issue_number": 11714, "created_at": "2019-05-01", "closed_at": "2019-05-09", "labels": ["resolution: duplicate", "resolution: invalid"], "State": "closed", "Author": "viney91"}
+{"issue_number": 11713, "created_at": "2019-04-29", "closed_at": "2019-05-09", "labels": ["resolution: fixed", "type: docs", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "gauravlodha"}
+{"issue_number": 11709, "created_at": "2019-04-11", "closed_at": "2019-05-14", "labels": ["ui: CSS"], "State": "closed", "Author": "oliversalzburg"}
+{"issue_number": 11708, "created_at": "2019-04-11", "closed_at": "2019-04-12", "labels": ["needs: demo", "resolution: works as expected"], "State": "closed", "Author": "pengleichen"}
+{"issue_number": 11707, "created_at": "2019-04-11", "closed_at": "2019-05-20", "labels": ["type: enhancement", "resolution: fixed", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "oliversalzburg"}
+{"issue_number": 11705, "created_at": "2019-04-10", "closed_at": "2019-04-12", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "tuannguyensw"}
+{"issue_number": 11704, "created_at": "2019-04-09", "closed_at": "2019-04-09", "labels": ["resolution: invalid"], "State": "closed", "Author": "sambsa"}
+{"issue_number": 11703, "created_at": "2019-04-08", "closed_at": "2020-05-26", "labels": ["type: bug", "type: enhancement", "resolution: fixed", "severity: regression", "g3: reported", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "schliffer"}
+{"issue_number": 11702, "created_at": "2019-04-08", "closed_at": "2019-04-12", "labels": ["resolution: works as expected"], "State": "closed", "Author": "jacekg88"}
+{"issue_number": 11701, "created_at": "2019-04-04", "closed_at": "2019-05-20", "labels": ["type: bug", "resolution: fixed", "browser: Chrome", "P2: required", "has: Pull Request"], "State": "closed", "Author": "kdeclerck"}
+{"issue_number": 11700, "created_at": "2019-04-03", "closed_at": "2019-07-21", "labels": ["needs: demo", "needs: more info"], "State": "closed", "Author": "cadilhac"}
+{"issue_number": 11699, "created_at": "2019-04-03", "closed_at": "2020-03-09", "labels": ["type: bug", "resolution: fixed", "browser: IE", "severity: regression", "P2: required", "has: Pull Request"], "State": "closed", "Author": "molehillrocker"}
+{"issue_number": 11698, "created_at": "2019-04-01", "closed_at": null, "labels": ["type: bug", "needs: investigation", "hotlist: animations", "P3: important"], "State": "open", "Author": "maxprin"}
+{"issue_number": 11696, "created_at": "2019-04-01", "closed_at": "2019-04-01", "labels": ["resolution: fixed", "type: demos", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11691, "created_at": "2019-03-29", "closed_at": null, "labels": ["type: bug", "needs: investigation", "P2: required"], "State": "open", "Author": "Quo0"}
+{"issue_number": 11689, "created_at": "2019-03-21", "closed_at": "2019-04-23", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Axeldorf"}
+{"issue_number": 11687, "created_at": "2019-03-21", "closed_at": "2019-03-21", "labels": [], "State": "closed", "Author": "libingzhou"}
+{"issue_number": 11685, "created_at": "2019-03-19", "closed_at": "2019-03-28", "labels": ["type: bug", "resolution: fixed", "a11y", "severity: regression", "P2: required", "has: Pull Request"], "State": "closed", "Author": "gauravlodha"}
+{"issue_number": 11684, "created_at": "2019-03-19", "closed_at": "2019-04-01", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P2: required", "has: Pull Request"], "State": "closed", "Author": "Noglen"}
+{"issue_number": 11682, "created_at": "2019-03-16", "closed_at": "2019-03-16", "labels": ["resolution: invalid"], "State": "closed", "Author": "suhailshaik777"}
+{"issue_number": 11679, "created_at": "2019-03-14", "closed_at": "2019-05-20", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "jazdw"}
+{"issue_number": 11678, "created_at": "2019-03-14", "closed_at": "2020-06-15", "labels": ["type: bug", "resolution: fixed", "a11y", "P2: required", "has: Pull Request"], "State": "closed", "Author": "vtknann"}
+{"issue_number": 11677, "created_at": "2019-03-14", "closed_at": "2019-03-14", "labels": [], "State": "closed", "Author": "ghost"}
+{"issue_number": 11672, "created_at": "2019-03-12", "closed_at": null, "labels": ["type: enhancement", "P4: minor"], "State": "open", "Author": "alirezamirian"}
+{"issue_number": 11669, "created_at": "2019-03-07", "closed_at": "2019-03-29", "labels": ["resolution: fixed", "type: docs", "for: internal contributor", "P3: important"], "State": "closed", "Author": "gaurav5430"}
+{"issue_number": 11668, "created_at": "2019-03-07", "closed_at": "2019-03-13", "labels": ["resolution: fixed", "for: internal contributor", "browser: IE", "severity: regression", "P2: required", "has: Pull Request"], "State": "closed", "Author": "srweeks"}
+{"issue_number": 11666, "created_at": "2019-03-06", "closed_at": "2020-11-15", "labels": ["ui: mobile", "needs: feedback", "needs: investigation", "resolution: can't reproduce", "browser: Android", "P4: minor"], "State": "closed", "Author": "gauravlodha"}
+{"issue_number": 11665, "created_at": "2019-03-06", "closed_at": "2019-03-07", "labels": ["resolution: invalid"], "State": "closed", "Author": "supdegrave"}
+{"issue_number": 11662, "created_at": "2019-03-05", "closed_at": null, "labels": ["type: enhancement", "P3: important"], "State": "open", "Author": "oliversalzburg"}
+{"issue_number": 11661, "created_at": "2019-03-05", "closed_at": "2019-03-21", "labels": ["resolution: duplicate", "needs: feedback"], "State": "closed", "Author": "nathanael-bice"}
+{"issue_number": 11660, "created_at": "2019-03-01", "closed_at": null, "labels": ["type: bug", "needs: investigation", "P3: important"], "State": "open", "Author": "michalzaptk"}
+{"issue_number": 11657, "created_at": "2019-02-27", "closed_at": "2019-03-01", "labels": ["resolution: invalid"], "State": "closed", "Author": "quikki13"}
+{"issue_number": 11656, "created_at": "2019-02-27", "closed_at": "2019-03-20", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "rreitmann"}
+{"issue_number": 11655, "created_at": "2019-02-27", "closed_at": "2019-02-27", "labels": ["resolution: invalid"], "State": "closed", "Author": "venkatesh707"}
+{"issue_number": 11654, "created_at": "2019-02-25", "closed_at": "2019-03-28", "labels": ["type: bug", "resolution: fixed", "browser: FireFox", "P3: important", "has: Pull Request"], "State": "closed", "Author": "gauravlodha"}
+{"issue_number": 11651, "created_at": "2019-02-22", "closed_at": "2019-03-06", "labels": ["type: bug", "resolution: fixed", "- Lots of Comments", "severity: regression", "P2: required", "has: Pull Request"], "State": "closed", "Author": "korengal"}
+{"issue_number": 11650, "created_at": "2019-02-22", "closed_at": null, "labels": ["type: bug", "a11y", "g3: reported", "P3: important"], "State": "open", "Author": "NilsAtGoogle"}
+{"issue_number": 11647, "created_at": "2019-02-21", "closed_at": "2019-02-21", "labels": ["resolution: invalid"], "State": "closed", "Author": "viniciusogg"}
+{"issue_number": 11644, "created_at": "2019-02-20", "closed_at": "2019-02-23", "labels": ["resolution: fixed", "type: docs", "P2: required", "has: Pull Request"], "State": "closed", "Author": "codymikol"}
+{"issue_number": 11643, "created_at": "2019-02-20", "closed_at": "2019-02-21", "labels": ["resolution: works as expected"], "State": "closed", "Author": "ngehlert"}
+{"issue_number": 11642, "created_at": "2019-02-19", "closed_at": "2019-02-19", "labels": ["resolution: invalid"], "State": "closed", "Author": "Hypenate"}
+{"issue_number": 11639, "created_at": "2019-02-15", "closed_at": "2019-02-21", "labels": ["type: bug", "resolution: fixed", "a11y", "severity: regression", "g3: reported", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11637, "created_at": "2019-02-15", "closed_at": "2019-03-13", "labels": ["type: bug", "resolution: fixed", "a11y", "g3: reported", "P2: required", "has: Pull Request"], "State": "closed", "Author": "NilsAtGoogle"}
+{"issue_number": 11632, "created_at": "2019-02-06", "closed_at": "2019-02-08", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "VAK314"}
+{"issue_number": 11631, "created_at": "2019-02-05", "closed_at": "2019-02-06", "labels": [], "State": "closed", "Author": "rudzikdawid"}
+{"issue_number": 11628, "created_at": "2019-02-01", "closed_at": "2019-02-01", "labels": ["resolution: invalid"], "State": "closed", "Author": "suriyat"}
+{"issue_number": 11627, "created_at": "2019-01-31", "closed_at": "2019-01-31", "labels": [], "State": "closed", "Author": "EhsanKia"}
+{"issue_number": 11621, "created_at": "2019-01-30", "closed_at": "2019-02-06", "labels": ["resolution: fixed"], "State": "closed", "Author": "dohomi"}
+{"issue_number": 11612, "created_at": "2019-01-27", "closed_at": "2019-02-06", "labels": ["resolution: works as expected"], "State": "closed", "Author": "fayzaan"}
+{"issue_number": 11611, "created_at": "2019-01-26", "closed_at": "2019-02-06", "labels": ["resolution: invalid"], "State": "closed", "Author": "vitarunaeva"}
+{"issue_number": 11610, "created_at": "2019-01-24", "closed_at": null, "labels": ["type: docs", "P3: important", "has: Pull Request"], "State": "open", "Author": "codymikol"}
+{"issue_number": 11609, "created_at": "2019-01-24", "closed_at": "2019-02-01", "labels": ["type: bug", "resolution: fixed", "ui: layout", "type: performance", "severity: regression", "P2: required", "has: Pull Request"], "State": "closed", "Author": "TarantinoMariachi"}
+{"issue_number": 11603, "created_at": "2019-01-22", "closed_at": "2019-02-13", "labels": ["type: bug", "resolution: fixed", "browser: IE", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "rreitmann"}
+{"issue_number": 11599, "created_at": "2019-01-17", "closed_at": "2019-01-17", "labels": ["resolution: invalid"], "State": "closed", "Author": "MunMunMiao"}
+{"issue_number": 11594, "created_at": "2019-01-10", "closed_at": null, "labels": ["needs: investigation", "P5: nice to have"], "State": "open", "Author": "mcalmus"}
+{"issue_number": 11593, "created_at": "2019-01-10", "closed_at": "2019-01-11", "labels": ["resolution: duplicate", "type: enhancement", "resolution: won't fix", "type: spec alignment"], "State": "closed", "Author": "GlauberF"}
+{"issue_number": 11592, "created_at": "2019-01-10", "closed_at": "2019-02-10", "labels": ["type: build", "resolution: fixed", "type: chore", "P3: important"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11591, "created_at": "2019-01-10", "closed_at": "2019-02-01", "labels": ["type: bug", "resolution: fixed", "for: internal contributor", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "rohit1018"}
+{"issue_number": 11583, "created_at": "2019-01-08", "closed_at": "2019-02-01", "labels": ["type: bug", "resolution: fixed", "a11y", "P2: required", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11582, "created_at": "2019-01-08", "closed_at": "2020-09-23", "labels": ["type: bug", "a11y", "g3: reported", "P2: required", "has: Pull Request"], "State": "closed", "Author": "NilsAtGoogle"}
+{"issue_number": 11577, "created_at": "2019-01-07", "closed_at": "2019-01-08", "labels": ["resolution: invalid"], "State": "closed", "Author": "emps"}
+{"issue_number": 11574, "created_at": "2019-01-03", "closed_at": "2019-01-03", "labels": ["resolution: duplicate", "browser: IE"], "State": "closed", "Author": "rk150390"}
+{"issue_number": 11573, "created_at": "2019-01-02", "closed_at": null, "labels": ["type: enhancement", "P5: nice to have"], "State": "open", "Author": "codymikol"}
+{"issue_number": 11571, "created_at": "2018-12-31", "closed_at": "2019-01-03", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "rudzikdawid"}
+{"issue_number": 11569, "created_at": "2018-12-28", "closed_at": "2019-01-02", "labels": ["resolution: duplicate", "a11y"], "State": "closed", "Author": "jaindivya0707"}
+{"issue_number": 11568, "created_at": "2018-12-27", "closed_at": "2018-12-27", "labels": ["resolution: works as expected"], "State": "closed", "Author": "p3x-robot"}
+{"issue_number": 11566, "created_at": "2018-12-24", "closed_at": "2019-01-03", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "RostYanevych"}
+{"issue_number": 11565, "created_at": "2018-12-23", "closed_at": "2018-12-23", "labels": [], "State": "closed", "Author": "p3x-robot"}
+{"issue_number": 11563, "created_at": "2018-12-19", "closed_at": "2019-01-05", "labels": ["type: bug", "resolution: fixed", "a11y", "P2: required", "has: Pull Request"], "State": "closed", "Author": "codymikol"}
+{"issue_number": 11561, "created_at": "2018-12-18", "closed_at": "2018-12-20", "labels": ["resolution: fixed", "type: docs", "P2: required", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11560, "created_at": "2018-12-17", "closed_at": "2018-12-18", "labels": ["resolution: invalid"], "State": "closed", "Author": "stsyganov"}
+{"issue_number": 11543, "created_at": "2018-12-15", "closed_at": "2018-12-20", "labels": ["type: bug", "resolution: fixed", "browser: IE", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11541, "created_at": "2018-12-14", "closed_at": "2018-12-14", "labels": ["resolution: invalid"], "State": "closed", "Author": "NurGuz"}
+{"issue_number": 11536, "created_at": "2018-12-05", "closed_at": null, "labels": ["type: enhancement", "a11y", "P3: important"], "State": "open", "Author": "Splaktar"}
+{"issue_number": 11534, "created_at": "2018-12-04", "closed_at": "2018-12-05", "labels": ["resolution: works as expected"], "State": "closed", "Author": "Romu-C"}
+{"issue_number": 11533, "created_at": "2018-12-04", "closed_at": "2018-12-09", "labels": ["ui: layout", "resolution: invalid"], "State": "closed", "Author": "zbrong"}
+{"issue_number": 11532, "created_at": "2018-12-03", "closed_at": "2018-12-04", "labels": ["resolution: invalid"], "State": "closed", "Author": "noonhe"}
+{"issue_number": 11531, "created_at": "2018-11-29", "closed_at": "2018-11-29", "labels": [], "State": "closed", "Author": "amovaliya"}
+{"issue_number": 11525, "created_at": "2018-11-26", "closed_at": "2019-01-07", "labels": ["type: enhancement", "resolution: fixed", "P3: important", "has: Pull Request"], "State": "closed", "Author": "Garviell"}
+{"issue_number": 11524, "created_at": "2018-11-26", "closed_at": "2018-11-27", "labels": ["resolution: invalid"], "State": "closed", "Author": "flatbeats"}
+{"issue_number": 11523, "created_at": "2018-11-22", "closed_at": "2018-11-27", "labels": ["resolution: invalid"], "State": "closed", "Author": "prythms"}
+{"issue_number": 11522, "created_at": "2018-11-22", "closed_at": "2018-11-27", "labels": ["resolution: invalid"], "State": "closed", "Author": "parronator"}
+{"issue_number": 11519, "created_at": "2018-11-20", "closed_at": null, "labels": ["ui: layout", "P4: minor"], "State": "open", "Author": "AdriVanHoudt"}
+{"issue_number": 11515, "created_at": "2018-11-15", "closed_at": "2018-12-20", "labels": ["type: bug", "resolution: fixed", "a11y", "g3: reported", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "mertdeg2"}
+{"issue_number": 11514, "created_at": "2018-11-13", "closed_at": "2019-02-14", "labels": ["needs: demo", "needs: more info", "resolution: invalid"], "State": "closed", "Author": "pengleichen"}
+{"issue_number": 11511, "created_at": "2018-11-12", "closed_at": "2018-11-13", "labels": ["resolution: works as expected"], "State": "closed", "Author": "git102347501"}
+{"issue_number": 11508, "created_at": "2018-11-09", "closed_at": "2018-11-09", "labels": [], "State": "closed", "Author": "git102347501"}
+{"issue_number": 11507, "created_at": "2018-11-08", "closed_at": "2018-11-15", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "gameboy1024"}
+{"issue_number": 11506, "created_at": "2018-11-08", "closed_at": "2019-03-14", "labels": ["type: bug", "browser: Safari", "os: iOS", "P4: minor"], "State": "closed", "Author": "warnerribeiro"}
+{"issue_number": 11505, "created_at": "2018-11-06", "closed_at": "2018-11-07", "labels": ["needs: demo"], "State": "closed", "Author": "nmartinyuk"}
+{"issue_number": 11504, "created_at": "2018-11-05", "closed_at": "2018-11-06", "labels": [], "State": "closed", "Author": "vibindaskv"}
+{"issue_number": 11503, "created_at": "2018-11-02", "closed_at": null, "labels": ["type: enhancement", "g3: reported", "P3: important"], "State": "open", "Author": "NilsAtGoogle"}
+{"issue_number": 11502, "created_at": "2018-11-01", "closed_at": "2019-03-13", "labels": ["type: build", "resolution: fixed", "for: internal contributor", "ui: CSS", "g3: reported", "P3: important", "has: Pull Request"], "State": "closed", "Author": "jelbourn"}
+{"issue_number": 11499, "created_at": "2018-11-01", "closed_at": "2018-11-15", "labels": ["resolution: fixed", "type: docs", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "ChaitanyaBabar"}
+{"issue_number": 11496, "created_at": "2018-10-30", "closed_at": "2018-11-03", "labels": ["needs: demo", "i18n: localization", "resolution: works as expected"], "State": "closed", "Author": "ariadnei"}
+{"issue_number": 11495, "created_at": "2018-10-29", "closed_at": null, "labels": ["type: bug", "browser: IE", "hotlist: animations", "P4: minor"], "State": "open", "Author": "sukanya-pai"}
+{"issue_number": 11493, "created_at": "2018-10-23", "closed_at": "2019-03-14", "labels": ["resolution: fixed", "type: performance", "severity: performance", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "kimtuck"}
+{"issue_number": 11490, "created_at": "2018-10-17", "closed_at": "2018-11-06", "labels": ["type: bug", "resolution: fixed", "P3: important", "has: Pull Request"], "State": "closed", "Author": "cstephe"}
+{"issue_number": 11489, "created_at": "2018-10-17", "closed_at": null, "labels": ["type: chore", "P3: important"], "State": "open", "Author": "Splaktar"}
+{"issue_number": 11487, "created_at": "2018-10-16", "closed_at": "2018-10-24", "labels": ["resolution: fixed", "type: chore", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11485, "created_at": "2018-10-13", "closed_at": "2018-10-26", "labels": ["type: bug", "resolution: fixed", "a11y", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "MarcoZehe"}
+{"issue_number": 11484, "created_at": "2018-10-12", "closed_at": "2018-10-25", "labels": ["resolution: duplicate"], "State": "closed", "Author": "kivnek69"}
+{"issue_number": 11483, "created_at": "2018-10-11", "closed_at": null, "labels": ["type: enhancement", "P5: nice to have"], "State": "open", "Author": "EhsanKia"}
+{"issue_number": 11482, "created_at": "2018-10-11", "closed_at": "2019-02-14", "labels": ["needs: more info", "resolution: invalid"], "State": "closed", "Author": "jpike88"}
+{"issue_number": 11481, "created_at": "2018-10-10", "closed_at": null, "labels": ["type: bug", "needs: investigation", "P3: important"], "State": "open", "Author": "frostsumonner"}
+{"issue_number": 11480, "created_at": "2018-10-10", "closed_at": null, "labels": ["type: bug", "needs: investigation", "P4: minor"], "State": "open", "Author": "frostsumonner"}
+{"issue_number": 11479, "created_at": "2018-10-10", "closed_at": "2018-10-10", "labels": [], "State": "closed", "Author": "ethan-gforces"}
+{"issue_number": 11478, "created_at": "2018-10-09", "closed_at": null, "labels": ["type: bug", "needs: investigation", "P2: required"], "State": "open", "Author": "papb"}
+{"issue_number": 11477, "created_at": "2018-10-08", "closed_at": "2018-10-11", "labels": [], "State": "closed", "Author": "Bartaf83"}
+{"issue_number": 11476, "created_at": "2018-10-08", "closed_at": "2018-10-08", "labels": ["resolution: invalid"], "State": "closed", "Author": "learner972"}
+{"issue_number": 11474, "created_at": "2018-10-03", "closed_at": "2018-11-15", "labels": ["type: bug", "resolution: fixed", "a11y", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "jessika"}
+{"issue_number": 11473, "created_at": "2018-10-03", "closed_at": "2018-11-01", "labels": ["resolution: fixed", "type: docs", "P3: important"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11470, "created_at": "2018-10-02", "closed_at": "2020-11-15", "labels": ["type: docs", "needs: feedback", "resolution: can't reproduce", "P4: minor"], "State": "closed", "Author": "KZRepository"}
+{"issue_number": 11468, "created_at": "2018-10-01", "closed_at": "2018-10-01", "labels": ["type: build", "P2: required", "has: Pull Request"], "State": "closed", "Author": "MiB3Avenger"}
+{"issue_number": 11467, "created_at": "2018-09-30", "closed_at": null, "labels": ["type: enhancement", "needs: investigation", "P4: minor"], "State": "open", "Author": "totomaze"}
+{"issue_number": 11466, "created_at": "2018-09-28", "closed_at": null, "labels": ["type: enhancement", "ui: layout", "P4: minor", "has: Pull Request"], "State": "open", "Author": "WebTechnolog"}
+{"issue_number": 11464, "created_at": "2018-09-28", "closed_at": null, "labels": ["type: enhancement", "needs: investigation", "P4: minor"], "State": "open", "Author": "totomaze"}
+{"issue_number": 11461, "created_at": "2018-09-26", "closed_at": "2019-03-07", "labels": ["type: bug", "resolution: fixed", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "JSitjaNCR"}
+{"issue_number": 11460, "created_at": "2018-09-26", "closed_at": "2019-03-18", "labels": ["type: bug", "resolution: fixed", "P3: important", "has: Pull Request"], "State": "closed", "Author": "codymikol"}
+{"issue_number": 11458, "created_at": "2018-09-25", "closed_at": null, "labels": ["type: enhancement", "ui: theme", "P3: important"], "State": "open", "Author": "Splaktar"}
+{"issue_number": 11457, "created_at": "2018-09-25", "closed_at": "2018-09-25", "labels": ["resolution: duplicate"], "State": "closed", "Author": "EdvinasOak"}
+{"issue_number": 11456, "created_at": "2018-09-25", "closed_at": "2018-09-25", "labels": ["resolution: invalid"], "State": "closed", "Author": "hassan-haghi"}
+{"issue_number": 11452, "created_at": "2018-09-20", "closed_at": "2018-10-04", "labels": ["resolution: fixed", "type: docs", "a11y", "P2: required", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11451, "created_at": "2018-09-20", "closed_at": "2018-09-26", "labels": ["type: docs", "type: chore", "P1: urgent"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11449, "created_at": "2018-09-17", "closed_at": "2020-09-14", "labels": ["type: docs", "a11y", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11447, "created_at": "2018-09-17", "closed_at": "2018-09-21", "labels": ["type: bug", "resolution: fixed", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "dokmic"}
+{"issue_number": 11445, "created_at": "2018-09-16", "closed_at": "2018-09-18", "labels": ["resolution: works as expected"], "State": "closed", "Author": "aghArdeshir"}
+{"issue_number": 11444, "created_at": "2018-09-15", "closed_at": "2018-09-18", "labels": ["type: gestures", "ui: mobile", "resolution: works as expected"], "State": "closed", "Author": "Quesstor"}
+{"issue_number": 11443, "created_at": "2018-09-13", "closed_at": null, "labels": ["type: enhancement", "P4: minor"], "State": "open", "Author": "totomaze"}
+{"issue_number": 11436, "created_at": "2018-09-07", "closed_at": "2018-09-07", "labels": ["resolution: invalid"], "State": "closed", "Author": "arun-yadav87"}
+{"issue_number": 11433, "created_at": "2018-09-04", "closed_at": "2019-02-14", "labels": ["needs: more info", "resolution: works as expected"], "State": "closed", "Author": "elincognito"}
+{"issue_number": 11426, "created_at": "2018-08-25", "closed_at": null, "labels": ["type: bug", "needs: investigation", "P4: minor"], "State": "open", "Author": "papb"}
+{"issue_number": 11425, "created_at": "2018-08-24", "closed_at": "2018-08-24", "labels": ["resolution: invalid"], "State": "closed", "Author": "donpironet"}
+{"issue_number": 11423, "created_at": "2018-08-23", "closed_at": "2018-08-27", "labels": [], "State": "closed", "Author": "GlauberF"}
+{"issue_number": 11418, "created_at": "2018-08-17", "closed_at": "2018-11-03", "labels": ["P5: nice to have", "type: spec alignment"], "State": "closed", "Author": "fmax32"}
+{"issue_number": 11416, "created_at": "2018-08-17", "closed_at": "2018-08-17", "labels": ["resolution: invalid"], "State": "closed", "Author": "javahaxxor"}
+{"issue_number": 11415, "created_at": "2018-08-17", "closed_at": "2018-09-26", "labels": ["resolution: fixed", "type: docs", "P2: required", "has: Pull Request", "type: spec alignment"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11413, "created_at": "2018-08-16", "closed_at": "2019-01-11", "labels": ["type: enhancement", "resolution: won't fix"], "State": "closed", "Author": "HZooly"}
+{"issue_number": 11410, "created_at": "2018-08-15", "closed_at": "2018-10-01", "labels": ["type: build", "resolution: fixed", "P2: required", "has: Pull Request"], "State": "closed", "Author": "devversion"}
+{"issue_number": 11409, "created_at": "2018-08-15", "closed_at": "2018-08-15", "labels": ["resolution: invalid"], "State": "closed", "Author": "t-zander"}
+{"issue_number": 11408, "created_at": "2018-08-14", "closed_at": "2018-08-14", "labels": ["resolution: invalid"], "State": "closed", "Author": "wluijk"}
+{"issue_number": 11406, "created_at": "2018-08-13", "closed_at": "2018-08-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "ghost"}
+{"issue_number": 11401, "created_at": "2018-08-08", "closed_at": "2018-08-09", "labels": ["ui: layout", "resolution: works as expected"], "State": "closed", "Author": "filipe-carvalho"}
+{"issue_number": 11399, "created_at": "2018-08-07", "closed_at": "2018-08-09", "labels": ["type: enhancement", "resolution: not core"], "State": "closed", "Author": "Thaina"}
+{"issue_number": 11397, "created_at": "2018-08-03", "closed_at": "2019-02-12", "labels": ["needs: feedback", "needs: more info", "resolution: can't reproduce"], "State": "closed", "Author": "filipe-carvalho"}
+{"issue_number": 11395, "created_at": "2018-08-02", "closed_at": "2019-04-04", "labels": ["type: bug", "resolution: fixed", "a11y", "P2: required", "has: Pull Request"], "State": "closed", "Author": "coennijhuis"}
+{"issue_number": 11394, "created_at": "2018-08-02", "closed_at": "2018-08-02", "labels": ["resolution: invalid"], "State": "closed", "Author": "shankargurutarikere"}
+{"issue_number": 11391, "created_at": "2018-07-31", "closed_at": "2018-08-01", "labels": ["resolution: invalid"], "State": "closed", "Author": "felikf"}
+{"issue_number": 11388, "created_at": "2018-07-31", "closed_at": "2018-07-31", "labels": ["needs: demo", "resolution: works as expected"], "State": "closed", "Author": "RFTaurus"}
+{"issue_number": 11387, "created_at": "2018-07-30", "closed_at": "2018-07-31", "labels": ["resolution: works as expected"], "State": "closed", "Author": "TemitaTom"}
+{"issue_number": 11384, "created_at": "2018-07-26", "closed_at": "2018-08-13", "labels": ["type: bug", "resolution: fixed", "a11y", "severity: regression", "g3: reported", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "avakatushka"}
+{"issue_number": 11383, "created_at": "2018-07-24", "closed_at": "2018-07-30", "labels": ["resolution: invalid"], "State": "closed", "Author": "m3rolam"}
+{"issue_number": 11382, "created_at": "2018-07-23", "closed_at": "2021-06-03", "labels": ["needs: demo", "needs: feedback", "resolution: can't reproduce", "- Lots of Comments", "os: iOS", "P3: important"], "State": "closed", "Author": "pavelsl"}
+{"issue_number": 11377, "created_at": "2018-07-20", "closed_at": "2018-07-26", "labels": ["resolution: fixed", "type: performance", "P5: nice to have", "has: Pull Request"], "State": "closed", "Author": "NgMomentum"}
+{"issue_number": 11366, "created_at": "2018-07-10", "closed_at": "2018-07-10", "labels": ["resolution: duplicate"], "State": "closed", "Author": "Romu-C"}
+{"issue_number": 11361, "created_at": "2018-07-06", "closed_at": "2018-07-09", "labels": ["resolution: invalid"], "State": "closed", "Author": "paresh-zibtek"}
+{"issue_number": 11359, "created_at": "2018-07-05", "closed_at": "2018-07-05", "labels": ["resolution: invalid"], "State": "closed", "Author": "Deezlar"}
+{"issue_number": 11358, "created_at": "2018-07-05", "closed_at": null, "labels": ["type: docs", "type: custom css docs", "for: internal contributor", "P2: required"], "State": "open", "Author": "Splaktar"}
+{"issue_number": 11357, "created_at": "2018-07-05", "closed_at": "2018-07-29", "labels": ["type: bug", "resolution: fixed", "a11y", "ux: polish", "P2: required", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11356, "created_at": "2018-07-04", "closed_at": "2018-07-11", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "jai-git-dev"}
+{"issue_number": 11354, "created_at": "2018-07-02", "closed_at": "2018-07-03", "labels": ["ui: CSS", "browser: IE"], "State": "closed", "Author": "bushuyev"}
+{"issue_number": 11349, "created_at": "2018-06-29", "closed_at": "2019-02-12", "labels": ["needs: more info", "resolution: can't reproduce"], "State": "closed", "Author": "TemitaTom"}
+{"issue_number": 11348, "created_at": "2018-06-29", "closed_at": "2018-06-29", "labels": ["type: build", "resolution: fixed", "P1: urgent"], "State": "closed", "Author": "marshfire"}
+{"issue_number": 11347, "created_at": "2018-06-29", "closed_at": "2018-07-05", "labels": ["resolution: invalid"], "State": "closed", "Author": "amankhanna24"}
+{"issue_number": 11346, "created_at": "2018-06-27", "closed_at": null, "labels": ["type: enhancement", "P4: minor"], "State": "open", "Author": "rantiev"}
+{"issue_number": 11345, "created_at": "2018-06-27", "closed_at": "2019-08-12", "labels": ["type: bug", "resolution: fixed", "for: internal contributor", "os: iOS", "P3: important", "has: Pull Request"], "State": "closed", "Author": "rantiev"}
+{"issue_number": 11344, "created_at": "2018-06-27", "closed_at": "2018-07-03", "labels": ["resolution: invalid"], "State": "closed", "Author": "tomislavplecko"}
+{"issue_number": 11343, "created_at": "2018-06-27", "closed_at": "2018-07-09", "labels": ["type: build", "resolution: fixed", "P2: required", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11339, "created_at": "2018-06-25", "closed_at": null, "labels": ["ui: mobile", "ui: browser", "type: conflict", "browser: Chrome", "browser: Android", "P3: important", "Blocked"], "State": "open", "Author": "matthesrieke"}
+{"issue_number": 11337, "created_at": "2018-06-22", "closed_at": "2018-06-22", "labels": ["resolution: invalid"], "State": "closed", "Author": "pawantiwari1"}
+{"issue_number": 11336, "created_at": "2018-06-21", "closed_at": "2018-06-21", "labels": ["resolution: invalid"], "State": "closed", "Author": "rantiev"}
+{"issue_number": 11335, "created_at": "2018-06-20", "closed_at": null, "labels": ["type: bug", "needs: investigation", "P4: minor"], "State": "open", "Author": "wilker7ribeiro"}
+{"issue_number": 11334, "created_at": "2018-06-20", "closed_at": "2019-03-06", "labels": ["type: bug", "resolution: fixed", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "aprat84"}
+{"issue_number": 11333, "created_at": "2018-06-20", "closed_at": "2018-06-20", "labels": ["resolution: duplicate", "resolution: fixed"], "State": "closed", "Author": "oliversalzburg"}
+{"issue_number": 11329, "created_at": "2018-06-18", "closed_at": "2018-07-09", "labels": ["type: bug", "resolution: fixed", "P3: important", "has: Pull Request"], "State": "closed", "Author": "brianrodecap"}
+{"issue_number": 11328, "created_at": "2018-06-15", "closed_at": "2018-06-22", "labels": ["type: bug", "resolution: fixed", "ui: layout", "ui: CSS", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "bersLucas"}
+{"issue_number": 11327, "created_at": "2018-06-14", "closed_at": "2018-06-14", "labels": ["resolution: invalid"], "State": "closed", "Author": "MohamedSahir"}
+{"issue_number": 11325, "created_at": "2018-06-12", "closed_at": "2018-06-26", "labels": ["type: bug", "resolution: fixed", "ui: theme", "severity: memory leak", "g3: reported", "P2: required", "has: Pull Request"], "State": "closed", "Author": "mleibman"}
+{"issue_number": 11324, "created_at": "2018-06-11", "closed_at": "2018-06-12", "labels": ["resolution: duplicate"], "State": "closed", "Author": "sujinecho18"}
+{"issue_number": 11322, "created_at": "2018-06-11", "closed_at": "2018-07-11", "labels": ["type: bug", "resolution: fixed", "severity: regression", "ux: polish", "P2: required", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11321, "created_at": "2018-06-08", "closed_at": null, "labels": ["type: bug", "ui: responsive", "for: internal contributor", "severity: regression", "P2: required"], "State": "open", "Author": "totomaze"}
+{"issue_number": 11319, "created_at": "2018-06-07", "closed_at": "2018-06-22", "labels": ["resolution: fixed", "for: internal contributor", "type: conflict", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11318, "created_at": "2018-06-07", "closed_at": null, "labels": ["type: bug", "needs: investigation", "severity: inconvenient", "ux: integration", "P4: minor"], "State": "open", "Author": "ChaitanyaBabar"}
+{"issue_number": 11314, "created_at": "2018-06-05", "closed_at": "2018-06-10", "labels": ["resolution: invalid"], "State": "closed", "Author": "ishanigunaratne"}
+{"issue_number": 11312, "created_at": "2018-06-01", "closed_at": "2018-07-09", "labels": ["type: bug", "resolution: fixed", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "rdantonio"}
+{"issue_number": 11311, "created_at": "2018-06-01", "closed_at": "2018-06-10", "labels": ["resolution: duplicate", "resolution: invalid"], "State": "closed", "Author": "borisovmarija"}
+{"issue_number": 11309, "created_at": "2018-05-31", "closed_at": "2018-05-31", "labels": ["resolution: works as expected"], "State": "closed", "Author": "alucardu"}
+{"issue_number": 11308, "created_at": "2018-05-31", "closed_at": "2019-03-06", "labels": ["type: bug", "resolution: fixed", "P4: minor", "needs: unit tests", "has: Pull Request"], "State": "closed", "Author": "jakobadam"}
+{"issue_number": 11307, "created_at": "2018-05-31", "closed_at": "2018-06-05", "labels": ["resolution: invalid"], "State": "closed", "Author": "ishanigunaratne"}
+{"issue_number": 11306, "created_at": "2018-05-30", "closed_at": "2018-05-30", "labels": ["needs: demo", "resolution: invalid"], "State": "closed", "Author": "kitekite"}
+{"issue_number": 11304, "created_at": "2018-05-29", "closed_at": "2018-06-13", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P3: important", "has: Pull Request"], "State": "closed", "Author": "hexadecy"}
+{"issue_number": 11303, "created_at": "2018-05-29", "closed_at": "2018-05-29", "labels": [], "State": "closed", "Author": "jpike88"}
+{"issue_number": 11301, "created_at": "2018-05-28", "closed_at": "2018-06-13", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P3: important", "has: Pull Request"], "State": "closed", "Author": "IMM0rtalis"}
+{"issue_number": 11300, "created_at": "2018-05-25", "closed_at": "2018-05-27", "labels": ["type: enhancement", "resolution: won't fix"], "State": "closed", "Author": "GlauberF"}
+{"issue_number": 11299, "created_at": "2018-05-25", "closed_at": "2018-05-26", "labels": ["needs: demo"], "State": "closed", "Author": "okaiyong"}
+{"issue_number": 11298, "created_at": "2018-05-25", "closed_at": "2018-06-22", "labels": ["type: bug", "resolution: fixed", "a11y", "for: internal contributor", "severity: regression", "P2: required", "has: Pull Request"], "State": "closed", "Author": "giricr"}
+{"issue_number": 11297, "created_at": "2018-05-25", "closed_at": "2018-05-25", "labels": ["resolution: invalid"], "State": "closed", "Author": "donle"}
+{"issue_number": 11294, "created_at": "2018-05-23", "closed_at": "2018-06-22", "labels": ["type: bug", "resolution: fixed", "for: internal contributor", "P3: important", "has: Pull Request"], "State": "closed", "Author": "geertjansen"}
+{"issue_number": 11293, "created_at": "2018-05-22", "closed_at": "2018-08-14", "labels": ["type: bug", "resolution: fixed", "a11y", "browser: Chrome", "g3: reported", "P3: important", "has: Pull Request"], "State": "closed", "Author": "hintzed"}
+{"issue_number": 11292, "created_at": "2018-05-22", "closed_at": "2018-06-22", "labels": ["resolution: fixed", "type: docs", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "SamerAlRawi"}
+{"issue_number": 11291, "created_at": "2018-05-20", "closed_at": "2020-04-30", "labels": ["type: bug", "resolution: fixed", "hotlist: animations", "P2: required", "has: Pull Request"], "State": "closed", "Author": "saurabh-shelgaonkar"}
+{"issue_number": 11289, "created_at": "2018-05-18", "closed_at": "2018-05-19", "labels": ["resolution: works as expected"], "State": "closed", "Author": "merorafael"}
+{"issue_number": 11288, "created_at": "2018-05-18", "closed_at": "2018-05-19", "labels": ["resolution: invalid"], "State": "closed", "Author": "mahmoudhsein"}
+{"issue_number": 11285, "created_at": "2018-05-17", "closed_at": "2019-02-08", "labels": ["resolution: fixed", "type: docs", "needs: investigation", "severity: inconvenient", "P2: required", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11284, "created_at": "2018-05-17", "closed_at": "2018-05-17", "labels": ["resolution: invalid"], "State": "closed", "Author": "chenchuraviteja"}
+{"issue_number": 11283, "created_at": "2018-05-17", "closed_at": null, "labels": ["type: performance", "browser: Chrome", "browser: Android", "P4: minor", "Blocked"], "State": "open", "Author": "rreitmann"}
+{"issue_number": 11282, "created_at": "2018-05-17", "closed_at": "2018-05-17", "labels": ["resolution: works as expected"], "State": "closed", "Author": "vsinghal01"}
+{"issue_number": 11281, "created_at": "2018-05-15", "closed_at": "2018-06-08", "labels": ["resolution: fixed", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "enderdickerson"}
+{"issue_number": 11278, "created_at": "2018-05-11", "closed_at": "2019-02-08", "labels": ["type: bug", "resolution: fixed", "needs: demo", "ui: CSS", "P3: important", "CSS:  High Density", "has: Pull Request"], "State": "closed", "Author": "miguelcobain"}
+{"issue_number": 11277, "created_at": "2018-05-11", "closed_at": "2018-05-15", "labels": ["resolution: works as expected"], "State": "closed", "Author": "alucardu"}
+{"issue_number": 11276, "created_at": "2018-05-11", "closed_at": "2018-05-15", "labels": ["resolution: duplicate"], "State": "closed", "Author": "oliversalzburg"}
+{"issue_number": 11275, "created_at": "2018-05-11", "closed_at": "2018-05-15", "labels": ["resolution: invalid"], "State": "closed", "Author": "shankybhor92"}
+{"issue_number": 11274, "created_at": "2018-05-09", "closed_at": "2020-11-15", "labels": ["ui: layout", "needs: feedback", "resolution: can't reproduce"], "State": "closed", "Author": "BMartinos"}
+{"issue_number": 11273, "created_at": "2018-05-09", "closed_at": null, "labels": ["type: enhancement", "P5: nice to have"], "State": "open", "Author": "alucardu"}
+{"issue_number": 11272, "created_at": "2018-05-07", "closed_at": "2018-08-01", "labels": ["needs: feedback", "resolution: can't reproduce"], "State": "closed", "Author": "jose-braga"}
+{"issue_number": 11271, "created_at": "2018-05-07", "closed_at": "2018-05-24", "labels": ["type: docs", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "BineetKumar94"}
+{"issue_number": 11270, "created_at": "2018-05-06", "closed_at": "2018-07-09", "labels": ["type: build", "resolution: fixed", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11268, "created_at": "2018-05-05", "closed_at": "2018-05-16", "labels": ["type: bug", "resolution: fixed", "ui: CSS", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "rudzikdawid"}
+{"issue_number": 11266, "created_at": "2018-04-28", "closed_at": "2018-05-03", "labels": [], "State": "closed", "Author": "GNSubrahmanyam"}
+{"issue_number": 11265, "created_at": "2018-04-28", "closed_at": "2018-06-22", "labels": ["type: bug", "resolution: fixed", "ui: theme", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "rudzikdawid"}
+{"issue_number": 11263, "created_at": "2018-04-27", "closed_at": "2018-04-27", "labels": ["type: build", "resolution: fixed", "type: docs", "for: internal contributor", "severity: inconvenient", "P2: required", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11261, "created_at": "2018-04-26", "closed_at": "2018-04-27", "labels": ["resolution: invalid"], "State": "closed", "Author": "adamdport"}
+{"issue_number": 11259, "created_at": "2018-04-26", "closed_at": "2018-11-06", "labels": ["type: bug", "resolution: fixed", "ui: theme", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "mymattcarroll"}
+{"issue_number": 11254, "created_at": "2018-04-24", "closed_at": "2018-05-03", "labels": ["type: enhancement", "resolution: not core"], "State": "closed", "Author": "iyyappan13391"}
+{"issue_number": 11253, "created_at": "2018-04-24", "closed_at": "2020-07-29", "labels": ["resolution: fixed", "type: conflict", "- Breaking Change", "P3: important", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11252, "created_at": "2018-04-24", "closed_at": "2018-04-25", "labels": ["resolution: fixed", "type: docs", "g3: reported", "P3: important", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11251, "created_at": "2018-04-23", "closed_at": "2018-05-03", "labels": [], "State": "closed", "Author": "wozzo"}
+{"issue_number": 11250, "created_at": "2018-04-21", "closed_at": "2018-08-01", "labels": ["type: bug", "needs: feedback", "resolution: works as expected"], "State": "closed", "Author": "luninroman"}
+{"issue_number": 11249, "created_at": "2018-04-21", "closed_at": "2018-05-03", "labels": [], "State": "closed", "Author": "GNSubrahmanyam"}
+{"issue_number": 11243, "created_at": "2018-04-19", "closed_at": "2018-04-19", "labels": ["resolution: works as expected"], "State": "closed", "Author": "garretwilson"}
+{"issue_number": 11242, "created_at": "2018-04-19", "closed_at": "2018-04-19", "labels": ["resolution: duplicate"], "State": "closed", "Author": "gflowgithub"}
+{"issue_number": 11241, "created_at": "2018-04-18", "closed_at": "2018-04-18", "labels": ["resolution: invalid"], "State": "closed", "Author": "postmeback"}
+{"issue_number": 11240, "created_at": "2018-04-17", "closed_at": "2020-05-15", "labels": ["type: bug", "resolution: fixed", "a11y", "g3: reported", "P2: required", "has: Pull Request"], "State": "closed", "Author": "benjiallen"}
+{"issue_number": 11239, "created_at": "2018-04-17", "closed_at": "2018-04-18", "labels": ["resolution: invalid"], "State": "closed", "Author": "LeonardoGastonRossi"}
+{"issue_number": 11238, "created_at": "2018-04-16", "closed_at": "2018-05-16", "labels": ["type: bug", "resolution: fixed", "ui: theme", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11236, "created_at": "2018-04-16", "closed_at": "2018-04-19", "labels": ["type: enhancement", "resolution: not core"], "State": "closed", "Author": "corzar71"}
+{"issue_number": 11235, "created_at": "2018-04-16", "closed_at": "2020-03-06", "labels": ["type: bug", "resolution: fixed", "ui: CSS", "severity: inconvenient", "P3: important", "has: Pull Request"], "State": "closed", "Author": "sivakrrish1994"}
+{"issue_number": 11233, "created_at": "2018-04-12", "closed_at": null, "labels": ["type: enhancement", "needs: investigation", "P5: nice to have"], "State": "open", "Author": "jeme"}
+{"issue_number": 11232, "created_at": "2018-04-12", "closed_at": "2018-04-18", "labels": ["type: enhancement", "resolution: works as expected"], "State": "closed", "Author": "fttriquet"}
+{"issue_number": 11231, "created_at": "2018-04-12", "closed_at": "2018-04-21", "labels": ["type: bug", "resolution: fixed", "a11y", "P3: important", "has: Pull Request"], "State": "closed", "Author": "Torinth"}
+{"issue_number": 11229, "created_at": "2018-04-11", "closed_at": null, "labels": ["type: docs", "ui: theme", "P3: important"], "State": "open", "Author": "Arns"}
+{"issue_number": 11228, "created_at": "2018-04-11", "closed_at": "2018-04-11", "labels": ["resolution: invalid"], "State": "closed", "Author": "Arns"}
+{"issue_number": 11227, "created_at": "2018-04-11", "closed_at": "2018-10-19", "labels": ["type: bug", "resolution: fixed", "browser: IE", "P3: important", "has: Pull Request"], "State": "closed", "Author": "hseleiro"}
+{"issue_number": 11226, "created_at": "2018-04-11", "closed_at": "2019-02-15", "labels": ["type: bug", "browser: IE", "needs: feedback", "resolution: can't reproduce", "P4: minor"], "State": "closed", "Author": "MustafaASK"}
+{"issue_number": 11223, "created_at": "2018-04-10", "closed_at": "2018-04-10", "labels": ["resolution: works as expected"], "State": "closed", "Author": "SvenBudak"}
+{"issue_number": 11222, "created_at": "2018-04-10", "closed_at": "2018-04-10", "labels": ["type: docs", "resolution: works as expected"], "State": "closed", "Author": "HZooly"}
+{"issue_number": 11221, "created_at": "2018-04-10", "closed_at": "2018-04-10", "labels": ["resolution: invalid"], "State": "closed", "Author": "hseleiro"}
+{"issue_number": 11218, "created_at": "2018-04-09", "closed_at": "2018-06-20", "labels": ["type: bug", "resolution: fixed", "g3: reported", "P3: important", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11217, "created_at": "2018-04-09", "closed_at": "2018-04-17", "labels": ["type: bug", "resolution: fixed", "severity: regression", "g3: reported", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11216, "created_at": "2018-04-09", "closed_at": "2018-04-09", "labels": ["resolution: invalid"], "State": "closed", "Author": "hseleiro"}
+{"issue_number": 11213, "created_at": "2018-04-06", "closed_at": "2018-04-07", "labels": ["resolution: invalid"], "State": "closed", "Author": "sriharigr"}
+{"issue_number": 11212, "created_at": "2018-04-06", "closed_at": "2018-04-09", "labels": ["resolution: duplicate", "browser: IE"], "State": "closed", "Author": "SanjanKalsi"}
+{"issue_number": 11211, "created_at": "2018-04-05", "closed_at": "2018-04-05", "labels": ["resolution: invalid"], "State": "closed", "Author": "danw5050"}
+{"issue_number": 11207, "created_at": "2018-04-04", "closed_at": null, "labels": ["type: performance", "severity: performance", "P3: important"], "State": "open", "Author": "vinaynb"}
+{"issue_number": 11206, "created_at": "2018-04-03", "closed_at": "2018-04-05", "labels": ["resolution: duplicate"], "State": "closed", "Author": "mthomasson"}
+{"issue_number": 11205, "created_at": "2018-04-02", "closed_at": "2018-04-05", "labels": ["type: gestures", "ui: mobile", "resolution: works as expected"], "State": "closed", "Author": "Nazariy995"}
+{"issue_number": 11204, "created_at": "2018-03-31", "closed_at": null, "labels": ["type: gestures", "ui: mobile", "needs: investigation", "P3: important"], "State": "open", "Author": "chenlijun99"}
+{"issue_number": 11202, "created_at": "2018-03-30", "closed_at": "2018-04-10", "labels": ["type: bug", "resolution: fixed", "ui: theme", "ui: CSS", "severity: inconvenient", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "rudzikdawid"}
+{"issue_number": 11200, "created_at": "2018-03-29", "closed_at": "2018-04-10", "labels": ["type: bug", "resolution: fixed", "ui: theme", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "rudzikdawid"}
+{"issue_number": 11199, "created_at": "2018-03-28", "closed_at": "2018-04-23", "labels": ["type: bug", "resolution: fixed", "ui: theme", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "rudzikdawid"}
+{"issue_number": 11196, "created_at": "2018-03-27", "closed_at": "2018-03-30", "labels": ["resolution: fixed", "type: docs", "type: gestures", "ui: mobile", "P2: required", "has: Pull Request"], "State": "closed", "Author": "chenlijun99"}
+{"issue_number": 11190, "created_at": "2018-03-26", "closed_at": "2018-03-26", "labels": ["needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "PhilipAdservice"}
+{"issue_number": 11187, "created_at": "2018-03-23", "closed_at": "2018-03-23", "labels": ["resolution: fixed", "type: demos", "for: internal contributor", "P1: urgent"], "State": "closed", "Author": "papb"}
+{"issue_number": 11184, "created_at": "2018-03-22", "closed_at": "2018-03-22", "labels": [], "State": "closed", "Author": "TimDMorris"}
+{"issue_number": 11183, "created_at": "2018-03-22", "closed_at": "2018-03-22", "labels": ["resolution: invalid"], "State": "closed", "Author": "insanehong"}
+{"issue_number": 11182, "created_at": "2018-03-22", "closed_at": "2018-03-22", "labels": [], "State": "closed", "Author": "neilbo"}
+{"issue_number": 11181, "created_at": "2018-03-22", "closed_at": "2018-09-26", "labels": ["type: enhancement", "type: docs", "severity: inconvenient", "P4: minor"], "State": "closed", "Author": "codymikol"}
+{"issue_number": 11179, "created_at": "2018-03-21", "closed_at": "2018-03-21", "labels": ["resolution: invalid"], "State": "closed", "Author": "Ryan-Milkiewicz"}
+{"issue_number": 11178, "created_at": "2018-03-21", "closed_at": null, "labels": ["type: gestures", "ui: mobile", "needs: investigation", "browser: Android", "P2: required"], "State": "open", "Author": "jamcoupe"}
+{"issue_number": 11177, "created_at": "2018-03-20", "closed_at": "2018-08-09", "labels": ["type: bug", "resolution: fixed", "ui: layout", "browser: IE", "P3: important", "has: Pull Request"], "State": "closed", "Author": "codymikol"}
+{"issue_number": 11176, "created_at": "2018-03-20", "closed_at": "2018-03-25", "labels": ["resolution: works as expected", "P3: important"], "State": "closed", "Author": "papb"}
+{"issue_number": 11175, "created_at": "2018-03-20", "closed_at": "2018-07-05", "labels": ["type: enhancement", "resolution: won't fix", "ui: layout", "P5: nice to have"], "State": "closed", "Author": "chenlijun99"}
+{"issue_number": 11173, "created_at": "2018-03-20", "closed_at": null, "labels": ["needs: team discussion"], "State": "open", "Author": "tavuntu"}
+{"issue_number": 11172, "created_at": "2018-03-19", "closed_at": "2018-03-26", "labels": ["type: bug", "resolution: fixed", "P2: required", "has: Pull Request"], "State": "closed", "Author": "ferc"}
+{"issue_number": 11171, "created_at": "2018-03-19", "closed_at": null, "labels": ["type: docs", "P3: important"], "State": "open", "Author": "Splaktar"}
+{"issue_number": 11170, "created_at": "2018-03-19", "closed_at": "2018-04-05", "labels": ["needs: demo"], "State": "closed", "Author": "waratah"}
+{"issue_number": 11168, "created_at": "2018-03-15", "closed_at": "2018-03-16", "labels": ["resolution: invalid"], "State": "closed", "Author": "f1ames0ff"}
+{"issue_number": 11167, "created_at": "2018-03-15", "closed_at": "2018-03-16", "labels": ["resolution: invalid"], "State": "closed", "Author": "gouthamkm11"}
+{"issue_number": 11161, "created_at": "2018-03-12", "closed_at": "2018-03-23", "labels": ["type: enhancement", "resolution: fixed", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "chenlijun99"}
+{"issue_number": 11159, "created_at": "2018-03-12", "closed_at": "2018-03-16", "labels": ["resolution: fixed", "type: docs", "P3: important", "has: Pull Request"], "State": "closed", "Author": "korengal"}
+{"issue_number": 11158, "created_at": "2018-03-11", "closed_at": null, "labels": ["type: feature", "P5: nice to have"], "State": "open", "Author": "chenlijun99"}
+{"issue_number": 11155, "created_at": "2018-03-09", "closed_at": null, "labels": ["type: enhancement", "severity: inconvenient", "ux: integration", "ux: polish", "P4: minor"], "State": "open", "Author": "bunjiboys"}
+{"issue_number": 11151, "created_at": "2018-03-07", "closed_at": null, "labels": ["type: bug", "severity: inconvenient", "ux: integration", "P3: important"], "State": "open", "Author": "cmevawala"}
+{"issue_number": 11147, "created_at": "2018-03-02", "closed_at": "2020-03-05", "labels": ["type: bug", "resolution: fixed", "type: gestures", "ui: mobile", "ui: CSS", "P2: required", "has: Pull Request"], "State": "closed", "Author": "jonaszuberbuehler"}
+{"issue_number": 11146, "created_at": "2018-03-02", "closed_at": "2018-03-05", "labels": ["type: docs", "P2: required", "has: Pull Request"], "State": "closed", "Author": "sebakerckhof"}
+{"issue_number": 11144, "created_at": "2018-03-01", "closed_at": "2018-03-01", "labels": [], "State": "closed", "Author": "materialp"}
+{"issue_number": 11141, "created_at": "2018-03-01", "closed_at": "2018-03-01", "labels": ["type: docs", "P1: urgent"], "State": "closed", "Author": "soulr3aver"}
+{"issue_number": 11139, "created_at": "2018-02-27", "closed_at": null, "labels": ["type: demos", "a11y", "needs: investigation", "P2: required"], "State": "open", "Author": "Splaktar"}
+{"issue_number": 11138, "created_at": "2018-02-27", "closed_at": null, "labels": ["type: bug", "needs: investigation", "severity: inconvenient", "ux: integration", "ux: polish", "P3: important"], "State": "open", "Author": "Arns"}
+{"issue_number": 11137, "created_at": "2018-02-27", "closed_at": null, "labels": ["type: enhancement", "P4: minor"], "State": "open", "Author": "vaclavpavlicek"}
+{"issue_number": 11134, "created_at": "2018-02-22", "closed_at": "2020-06-30", "labels": ["resolution: fixed", "a11y", "- Breaking Change", "g3: reported", "P3: important", "has: Pull Request"], "State": "closed", "Author": "pieman72"}
+{"issue_number": 11133, "created_at": "2018-02-22", "closed_at": "2018-03-12", "labels": ["type: bug", "resolution: fixed", "severity: regression", "severity: memory leak", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "pbininda"}
+{"issue_number": 11132, "created_at": "2018-02-22", "closed_at": null, "labels": ["type: bug", "needs: investigation", "ux: integration", "P3: important"], "State": "open", "Author": "mohanmanis"}
+{"issue_number": 11130, "created_at": "2018-02-21", "closed_at": "2018-02-26", "labels": ["resolution: invalid"], "State": "closed", "Author": "rosostolato"}
+{"issue_number": 11128, "created_at": "2018-02-18", "closed_at": "2018-02-26", "labels": ["ui: ink", "resolution: works as expected", "ux: integration"], "State": "closed", "Author": "roberleitner"}
+{"issue_number": 11126, "created_at": "2018-02-17", "closed_at": "2018-02-18", "labels": ["ux: integration"], "State": "closed", "Author": "badrshs"}
+{"issue_number": 11124, "created_at": "2018-02-16", "closed_at": "2018-03-12", "labels": ["type: enhancement", "resolution: fixed", "- Lots of Comments", "P2: required", "has: Pull Request"], "State": "closed", "Author": "IMM0rtalis"}
+{"issue_number": 11123, "created_at": "2018-02-15", "closed_at": "2018-02-20", "labels": ["a11y", "g3: reported", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "jelbourn"}
+{"issue_number": 11122, "created_at": "2018-02-14", "closed_at": null, "labels": ["needs: investigation", "severity: inconvenient", "P3: important"], "State": "open", "Author": "praetor-ss"}
+{"issue_number": 11121, "created_at": "2018-02-14", "closed_at": "2018-02-18", "labels": ["needs: demo", "resolution: invalid"], "State": "closed", "Author": "chenlijun99"}
+{"issue_number": 11120, "created_at": "2018-02-14", "closed_at": "2018-08-09", "labels": ["type: bug", "resolution: fixed", "a11y", "browser: Chrome", "severity: inconvenient", "P1: urgent"], "State": "closed", "Author": "michaelcupino"}
+{"issue_number": 11119, "created_at": "2018-02-13", "closed_at": "2018-02-18", "labels": ["resolution: invalid"], "State": "closed", "Author": "smucleopatra"}
+{"issue_number": 11118, "created_at": "2018-02-12", "closed_at": "2018-02-18", "labels": ["needs: demo", "resolution: invalid"], "State": "closed", "Author": "chenlijun99"}
+{"issue_number": 11117, "created_at": "2018-02-12", "closed_at": "2018-02-18", "labels": ["needs: demo", "resolution: invalid"], "State": "closed", "Author": "chenlijun99"}
+{"issue_number": 11114, "created_at": "2018-02-08", "closed_at": "2018-02-08", "labels": ["resolution: invalid"], "State": "closed", "Author": "learn44"}
+{"issue_number": 11113, "created_at": "2018-02-07", "closed_at": "2018-02-11", "labels": ["resolution: invalid"], "State": "closed", "Author": "ghost"}
+{"issue_number": 11112, "created_at": "2018-02-07", "closed_at": "2018-02-11", "labels": ["needs: demo", "needs: more info"], "State": "closed", "Author": "b3023630"}
+{"issue_number": 11108, "created_at": "2018-02-06", "closed_at": "2020-03-06", "labels": ["type: bug", "resolution: fixed", "severity: inconvenient", "P3: important", "has: Pull Request"], "State": "closed", "Author": "zendu"}
+{"issue_number": 11106, "created_at": "2018-02-02", "closed_at": "2018-02-11", "labels": ["resolution: invalid"], "State": "closed", "Author": "physicsboy"}
+{"issue_number": 11105, "created_at": "2018-02-01", "closed_at": "2018-02-13", "labels": ["needs: demo", "needs: more info"], "State": "closed", "Author": "kristynrb"}
+{"issue_number": 11104, "created_at": "2018-02-01", "closed_at": "2018-04-10", "labels": ["resolution: fixed", "browser: FireFox", "severity: inconvenient", "P5: nice to have", "has: Pull Request"], "State": "closed", "Author": "IMM0rtalis"}
+{"issue_number": 11101, "created_at": "2018-01-29", "closed_at": "2018-01-29", "labels": ["resolution: invalid"], "State": "closed", "Author": "briananderson1222"}
+{"issue_number": 11099, "created_at": "2018-01-28", "closed_at": "2018-02-11", "labels": ["needs: demo", "needs: more info", "resolution: invalid", "resolution: can't reproduce"], "State": "closed", "Author": "yonatankrug"}
+{"issue_number": 11093, "created_at": "2018-01-26", "closed_at": "2018-01-26", "labels": [], "State": "closed", "Author": "rodrigomartincapurro"}
+{"issue_number": 11092, "created_at": "2018-01-25", "closed_at": null, "labels": ["browser: IE", "needs: investigation", "severity: inconvenient", "P4: minor"], "State": "open", "Author": "petrovic-ivan"}
+{"issue_number": 11091, "created_at": "2018-01-24", "closed_at": "2018-01-24", "labels": ["resolution: invalid"], "State": "closed", "Author": "josephchrisman"}
+{"issue_number": 11090, "created_at": "2018-01-24", "closed_at": null, "labels": ["type: enhancement", "needs: investigation", "severity: inconvenient", "P4: minor"], "State": "open", "Author": "caseyjhol"}
+{"issue_number": 11089, "created_at": "2018-01-23", "closed_at": "2018-02-11", "labels": ["resolution: invalid"], "State": "closed", "Author": "rutgervd"}
+{"issue_number": 11086, "created_at": "2018-01-21", "closed_at": "2018-01-22", "labels": ["needs: demo", "ui: CSS"], "State": "closed", "Author": "chenlijun99"}
+{"issue_number": 11085, "created_at": "2018-01-21", "closed_at": "2018-01-21", "labels": ["resolution: invalid"], "State": "closed", "Author": "mohsensaremi"}
+{"issue_number": 11084, "created_at": "2018-01-20", "closed_at": "2018-01-20", "labels": [], "State": "closed", "Author": "Jack-SunQi"}
+{"issue_number": 11081, "created_at": "2018-01-19", "closed_at": null, "labels": ["type: docs", "browser: Chrome", "browser: Android", "P3: important"], "State": "open", "Author": "caseyjhol"}
+{"issue_number": 11080, "created_at": "2018-01-19", "closed_at": "2018-01-19", "labels": ["resolution: invalid"], "State": "closed", "Author": "hoangnguyen208"}
+{"issue_number": 11079, "created_at": "2018-01-18", "closed_at": "2018-01-21", "labels": ["resolution: duplicate"], "State": "closed", "Author": "caseyjhol"}
+{"issue_number": 11077, "created_at": "2018-01-18", "closed_at": "2018-03-26", "labels": ["ui: CSS", "resolution: works as expected"], "State": "closed", "Author": "roboter"}
+{"issue_number": 11075, "created_at": "2018-01-17", "closed_at": "2018-08-14", "labels": ["type: enhancement", "needs: demo", "ui: CSS", "needs: feedback"], "State": "closed", "Author": "RZsam"}
+{"issue_number": 11073, "created_at": "2018-01-17", "closed_at": null, "labels": ["type: docs", "P3: important"], "State": "open", "Author": "waratah"}
+{"issue_number": 11072, "created_at": "2018-01-16", "closed_at": "2018-01-16", "labels": ["resolution: invalid"], "State": "closed", "Author": "jtmgio"}
+{"issue_number": 11071, "created_at": "2018-01-16", "closed_at": "2019-02-12", "labels": ["needs: more info", "resolution: can't reproduce"], "State": "closed", "Author": "sandeepmhaske"}
+{"issue_number": 11070, "created_at": "2018-01-15", "closed_at": "2018-01-21", "labels": ["resolution: won't fix", "CSS:  High Density"], "State": "closed", "Author": "josepfdc"}
+{"issue_number": 11069, "created_at": "2018-01-15", "closed_at": "2018-06-22", "labels": ["type: bug", "resolution: fixed", "ui: mobile", "ui: ink", "os: iOS", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "vbraun"}
+{"issue_number": 11068, "created_at": "2018-01-14", "closed_at": "2018-01-14", "labels": ["resolution: invalid"], "State": "closed", "Author": "PankajRedekar"}
+{"issue_number": 11067, "created_at": "2018-01-14", "closed_at": "2018-01-21", "labels": ["needs: demo", "needs: more info"], "State": "closed", "Author": "antrez770"}
+{"issue_number": 11066, "created_at": "2018-01-12", "closed_at": "2018-01-13", "labels": ["resolution: not core"], "State": "closed", "Author": "ShankzPatil"}
+{"issue_number": 11065, "created_at": "2018-01-12", "closed_at": "2018-01-13", "labels": [], "State": "closed", "Author": "mishatsvelik"}
+{"issue_number": 11063, "created_at": "2018-01-12", "closed_at": "2018-01-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "patricklim75"}
+{"issue_number": 11062, "created_at": "2018-01-11", "closed_at": "2018-01-11", "labels": [], "State": "closed", "Author": "SamyukthaJ"}
+{"issue_number": 11061, "created_at": "2018-01-11", "closed_at": "2018-01-13", "labels": ["resolution: duplicate"], "State": "closed", "Author": "mribichich"}
+{"issue_number": 11058, "created_at": "2018-01-09", "closed_at": "2018-01-21", "labels": ["resolution: duplicate"], "State": "closed", "Author": "billsaysthis"}
+{"issue_number": 11057, "created_at": "2018-01-09", "closed_at": "2018-02-12", "labels": [], "State": "closed", "Author": "burka"}
+{"issue_number": 11056, "created_at": "2018-01-08", "closed_at": "2018-01-13", "labels": ["resolution: fixed"], "State": "closed", "Author": "gnn06"}
+{"issue_number": 11055, "created_at": "2018-01-08", "closed_at": "2018-01-17", "labels": ["type: feature", "ui: layout"], "State": "closed", "Author": "megaroeny"}
+{"issue_number": 11053, "created_at": "2018-01-08", "closed_at": "2018-01-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "ttvd94"}
+{"issue_number": 11050, "created_at": "2018-01-05", "closed_at": "2018-01-11", "labels": ["resolution: invalid"], "State": "closed", "Author": "awtar"}
+{"issue_number": 11049, "created_at": "2018-01-04", "closed_at": "2018-01-05", "labels": ["severity: critical", "P2: required"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11048, "created_at": "2018-01-03", "closed_at": "2018-01-11", "labels": ["needs: demo"], "State": "closed", "Author": "tyler-austin"}
+{"issue_number": 11047, "created_at": "2018-01-03", "closed_at": "2018-02-18", "labels": ["resolution: duplicate", "a11y"], "State": "closed", "Author": "escetic"}
+{"issue_number": 11046, "created_at": "2018-01-03", "closed_at": "2018-01-11", "labels": ["resolution: invalid"], "State": "closed", "Author": "kfir91"}
+{"issue_number": 11043, "created_at": "2018-01-02", "closed_at": "2018-01-10", "labels": ["type: bug", "type: demos", "browser: Safari", "P2: required", "has: Pull Request"], "State": "closed", "Author": "wangsha"}
+{"issue_number": 11041, "created_at": "2017-12-30", "closed_at": "2018-03-27", "labels": ["needs: demo", "needs: feedback", "needs: more info"], "State": "closed", "Author": "simran-k"}
+{"issue_number": 11040, "created_at": "2017-12-29", "closed_at": "2018-01-11", "labels": ["resolution: too risky"], "State": "closed", "Author": "megaroeny"}
+{"issue_number": 11038, "created_at": "2017-12-28", "closed_at": "2018-01-05", "labels": ["type: build", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11037, "created_at": "2017-12-28", "closed_at": "2018-01-05", "labels": ["resolution: duplicate"], "State": "closed", "Author": "benjiallen"}
+{"issue_number": 11036, "created_at": "2017-12-27", "closed_at": null, "labels": ["type: bug", "needs: investigation", "severity: inconvenient", "severity: regression", "ux: polish", "P2: required"], "State": "open", "Author": "nagibr"}
+{"issue_number": 11035, "created_at": "2017-12-25", "closed_at": "2018-04-17", "labels": ["resolution: fixed", "type: docs", "browser: FireFox", "P3: important", "has: Pull Request"], "State": "closed", "Author": "aghArdeshir"}
+{"issue_number": 11034, "created_at": "2017-12-24", "closed_at": "2017-12-27", "labels": ["resolution: invalid"], "State": "closed", "Author": "dgouissem"}
+{"issue_number": 11033, "created_at": "2017-12-22", "closed_at": null, "labels": ["type: bug", "a11y", "P3: important"], "State": "open", "Author": "andreaslof"}
+{"issue_number": 11032, "created_at": "2017-12-22", "closed_at": "2017-12-27", "labels": ["needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "ShankzPatil"}
+{"issue_number": 11030, "created_at": "2017-12-21", "closed_at": "2017-12-21", "labels": ["resolution: invalid"], "State": "closed", "Author": "m-kotek"}
+{"issue_number": 11029, "created_at": "2017-12-21", "closed_at": "2017-12-21", "labels": [], "State": "closed", "Author": "gelordi"}
+{"issue_number": 11026, "created_at": "2017-12-20", "closed_at": "2017-12-21", "labels": [], "State": "closed", "Author": "anilk533"}
+{"issue_number": 11025, "created_at": "2017-12-20", "closed_at": "2017-12-21", "labels": ["resolution: fixed"], "State": "closed", "Author": "anilk533"}
+{"issue_number": 11024, "created_at": "2017-12-20", "closed_at": null, "labels": ["type: performance", "needs: investigation", "severity: performance", "P3: important"], "State": "open", "Author": "jaa1982"}
+{"issue_number": 11023, "created_at": "2017-12-20", "closed_at": "2020-11-15", "labels": ["type: enhancement", "needs: feedback", "resolution: not core", "P5: nice to have"], "State": "closed", "Author": "yoniwg"}
+{"issue_number": 11022, "created_at": "2017-12-17", "closed_at": "2017-12-21", "labels": ["resolution: invalid", "browser: Chrome"], "State": "closed", "Author": "alinafees"}
+{"issue_number": 11021, "created_at": "2017-12-17", "closed_at": null, "labels": ["type: bug", "needs: investigation", "severity: inconvenient", "P5: nice to have"], "State": "open", "Author": "valepu"}
+{"issue_number": 11018, "created_at": "2017-12-14", "closed_at": "2018-03-26", "labels": ["needs: demo", "needs: more info", "resolution: can't reproduce"], "State": "closed", "Author": "HamzaMoummid"}
+{"issue_number": 11017, "created_at": "2017-12-13", "closed_at": "2017-12-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "orenAzuz"}
+{"issue_number": 11016, "created_at": "2017-12-13", "closed_at": "2019-07-11", "labels": ["type: enhancement", "resolution: fixed", "type: docs", "i18n: bi-directional", "P3: important", "has: Pull Request"], "State": "closed", "Author": "Romu-C"}
+{"issue_number": 11015, "created_at": "2017-12-12", "closed_at": "2018-02-27", "labels": ["type: bug", "resolution: fixed", "ux: integration", "P2: required", "has: Pull Request"], "State": "closed", "Author": "HansWouters"}
+{"issue_number": 11014, "created_at": "2017-12-11", "closed_at": "2017-12-13", "labels": [], "State": "closed", "Author": "jefferson-william"}
+{"issue_number": 11013, "created_at": "2017-12-11", "closed_at": "2017-12-13", "labels": ["resolution: duplicate"], "State": "closed", "Author": "miketricking"}
+{"issue_number": 11012, "created_at": "2017-12-11", "closed_at": "2017-12-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "priyanshus1"}
+{"issue_number": 11011, "created_at": "2017-12-11", "closed_at": null, "labels": ["type: bug", "hotlist: animations", "ux: polish", "P3: important"], "State": "open", "Author": "kvkv"}
+{"issue_number": 11010, "created_at": "2017-12-10", "closed_at": "2017-12-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "orenAzuz"}
+{"issue_number": 11009, "created_at": "2017-12-08", "closed_at": "2017-12-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "rutvikvijjali"}
+{"issue_number": 11008, "created_at": "2017-12-08", "closed_at": null, "labels": ["type: bug", "needs: investigation", "P3: important", "needs: unit tests"], "State": "open", "Author": "PLPeeters"}
+{"issue_number": 11007, "created_at": "2017-12-07", "closed_at": "2018-03-05", "labels": ["type: demos", "P5: nice to have", "has: Pull Request"], "State": "closed", "Author": "Splaktar"}
+{"issue_number": 11006, "created_at": "2017-12-07", "closed_at": null, "labels": ["ui: layout", "needs: investigation", "P4: minor", "os: Windows"], "State": "open", "Author": "weasnerb"}
+{"issue_number": 11005, "created_at": "2017-12-07", "closed_at": "2017-12-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "Romu-C"}
+{"issue_number": 11004, "created_at": "2017-12-05", "closed_at": "2018-08-15", "labels": ["type: enhancement", "resolution: fixed", "a11y", "g3: reported", "P2: required", "has: Pull Request"], "State": "closed", "Author": "cai-feng"}
+{"issue_number": 11003, "created_at": "2017-12-05", "closed_at": "2018-08-11", "labels": ["resolution: duplicate", "a11y", "g3: reported", "P1: urgent"], "State": "closed", "Author": "cai-feng"}
+{"issue_number": 11002, "created_at": "2017-12-05", "closed_at": "2018-08-14", "labels": ["type: bug", "needs: demo", "needs: feedback", "needs: more info", "resolution: can't reproduce", "ux: integration", "ux: polish", "P3: important"], "State": "closed", "Author": "TudorIoanMarin"}
+{"issue_number": 11001, "created_at": "2017-12-01", "closed_at": "2017-12-10", "labels": ["resolution: not core"], "State": "closed", "Author": "ersingencturk"}
+{"issue_number": 11000, "created_at": "2017-11-29", "closed_at": "2018-06-19", "labels": ["type: bug", "resolution: fixed", "ui: layout", "P2: required", "has: Pull Request"], "State": "closed", "Author": "aghArdeshir"}
+{"issue_number": 10999, "created_at": "2017-11-29", "closed_at": "2018-09-21", "labels": ["type: bug", "resolution: fixed", "browser: IE", "P3: important", "has: Pull Request"], "State": "closed", "Author": "Kusumoto"}
+{"issue_number": 10998, "created_at": "2017-11-27", "closed_at": "2017-11-28", "labels": ["resolution: invalid"], "State": "closed", "Author": "jazztong"}
+{"issue_number": 10996, "created_at": "2017-11-24", "closed_at": "2017-11-27", "labels": ["resolution: works as expected"], "State": "closed", "Author": "tsanjoto"}
+{"issue_number": 10995, "created_at": "2017-11-23", "closed_at": "2017-11-24", "labels": ["resolution: invalid"], "State": "closed", "Author": "kevincaradant"}
+{"issue_number": 10993, "created_at": "2017-11-22", "closed_at": "2017-11-24", "labels": ["resolution: invalid"], "State": "closed", "Author": "KevinQuispe"}
+{"issue_number": 10989, "created_at": "2017-11-16", "closed_at": "2017-11-21", "labels": [], "State": "closed", "Author": "vikasj123"}
+{"issue_number": 10988, "created_at": "2017-11-16", "closed_at": "2017-11-16", "labels": [], "State": "closed", "Author": "vikasj123"}
+{"issue_number": 10987, "created_at": "2017-11-15", "closed_at": "2017-11-16", "labels": [], "State": "closed", "Author": "lainz"}
+{"issue_number": 10986, "created_at": "2017-11-15", "closed_at": "2017-12-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "ashu11939"}
+{"issue_number": 10985, "created_at": "2017-11-15", "closed_at": "2017-11-24", "labels": ["resolution: invalid"], "State": "closed", "Author": "uttahb"}
+{"issue_number": 10984, "created_at": "2017-11-14", "closed_at": "2017-12-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "Bacianthos"}
+{"issue_number": 10983, "created_at": "2017-11-14", "closed_at": "2017-11-17", "labels": [], "State": "closed", "Author": "milanstamenkovic"}
+{"issue_number": 10981, "created_at": "2017-11-10", "closed_at": "2017-11-21", "labels": ["resolution: invalid"], "State": "closed", "Author": "jeanbacan"}
+{"issue_number": 10979, "created_at": "2017-11-09", "closed_at": "2017-12-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "sathyakps"}
+{"issue_number": 10978, "created_at": "2017-11-09", "closed_at": "2017-12-27", "labels": [], "State": "closed", "Author": "sathyababuram"}
+{"issue_number": 10975, "created_at": "2017-11-08", "closed_at": "2020-12-17", "labels": ["type: bug", "resolution: fixed", "severity: inconvenient", "ux: polish", "P5: nice to have", "has: Pull Request"], "State": "closed", "Author": "marcore86"}
+{"issue_number": 10974, "created_at": "2017-11-08", "closed_at": "2017-12-27", "labels": ["needs: more info", "resolution: invalid"], "State": "closed", "Author": "hashina"}
+{"issue_number": 10973, "created_at": "2017-11-07", "closed_at": "2018-08-29", "labels": ["browser: IE", "resolution: works as expected", "P4: minor"], "State": "closed", "Author": "ninad-d"}
+{"issue_number": 10972, "created_at": "2017-11-07", "closed_at": "2017-12-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "rajatduvedi"}
+{"issue_number": 10971, "created_at": "2017-11-06", "closed_at": "2018-01-05", "labels": ["type: bug", "resolution: duplicate", "i18n: localization", "ux: integration"], "State": "closed", "Author": "JohnPlaisted"}
+{"issue_number": 10970, "created_at": "2017-11-03", "closed_at": "2019-09-09", "labels": ["resolution: fixed", "a11y", "browser: IE", "needs: feedback", "os: iOS", "g3: reported", "P1: urgent"], "State": "closed", "Author": "jelbourn"}
+{"issue_number": 10969, "created_at": "2017-11-03", "closed_at": "2019-06-20", "labels": ["type: bug", "resolution: duplicate", "a11y", "g3: reported", "P1: urgent"], "State": "closed", "Author": "jelbourn"}
+{"issue_number": 10968, "created_at": "2017-11-03", "closed_at": "2019-09-08", "labels": ["type: bug", "resolution: fixed", "a11y", "os: iOS", "g3: reported", "P1: urgent"], "State": "closed", "Author": "jelbourn"}
+{"issue_number": 10967, "created_at": "2017-11-03", "closed_at": "2020-03-10", "labels": ["type: bug", "resolution: fixed", "a11y", "for: internal contributor", "os: iOS", "g3: reported", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "jelbourn"}
+{"issue_number": 10966, "created_at": "2017-11-03", "closed_at": "2017-12-13", "labels": ["resolution: works as expected"], "State": "closed", "Author": "phongca22"}
+{"issue_number": 10964, "created_at": "2017-11-02", "closed_at": null, "labels": ["needs: investigation", "browser: Safari", "os: iOS", "severity: inconvenient", "ux: polish", "P4: minor"], "State": "open", "Author": "nadia318"}
+{"issue_number": 10963, "created_at": "2017-11-02", "closed_at": "2020-12-16", "labels": ["type: bug", "resolution: fixed", "a11y", "P2: required", "has: Pull Request"], "State": "closed", "Author": "frkfir"}
+{"issue_number": 10962, "created_at": "2017-11-01", "closed_at": null, "labels": ["type: bug", "needs: UX team review", "needs: team discussion", "needs: investigation", "severity: inconvenient", "P3: important"], "State": "open", "Author": "mk--"}
+{"issue_number": 10961, "created_at": "2017-10-31", "closed_at": "2017-10-31", "labels": [], "State": "closed", "Author": "pranayv1310"}
+{"issue_number": 10960, "created_at": "2017-10-31", "closed_at": "2017-12-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "Deon588"}
+{"issue_number": 10959, "created_at": "2017-10-30", "closed_at": null, "labels": ["type: docs", "ui: focus", "P3: important"], "State": "open", "Author": "BobDankert"}
+{"issue_number": 10958, "created_at": "2017-10-30", "closed_at": null, "labels": ["type: bug", "browser: Android", "ux: polish", "P5: nice to have"], "State": "open", "Author": "jarekskuder"}
+{"issue_number": 10957, "created_at": "2017-10-30", "closed_at": "2018-03-13", "labels": ["needs: demo", "resolution: invalid"], "State": "closed", "Author": "shashank3552"}
+{"issue_number": 10956, "created_at": "2017-10-27", "closed_at": "2017-12-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "codewiseio"}
+{"issue_number": 10953, "created_at": "2017-10-26", "closed_at": "2018-02-16", "labels": ["type: bug", "resolution: fixed", "P3: important", "has: Pull Request"], "State": "closed", "Author": "simply201051"}
+{"issue_number": 10952, "created_at": "2017-10-25", "closed_at": null, "labels": ["type: bug", "needs: investigation", "severity: inconvenient", "g3: reported", "ux: polish", "P3: important"], "State": "open", "Author": "donmccurdy"}
+{"issue_number": 10951, "created_at": "2017-10-23", "closed_at": "2018-05-26", "labels": ["needs: demo"], "State": "closed", "Author": "ptomaszi"}
+{"issue_number": 10949, "created_at": "2017-10-22", "closed_at": "2018-01-19", "labels": ["resolution: fixed"], "State": "closed", "Author": "falco442"}
+{"issue_number": 10948, "created_at": "2017-10-20", "closed_at": null, "labels": ["type: feature", "severity: inconvenient", "P5: nice to have"], "State": "open", "Author": "matthieusieben"}
+{"issue_number": 10947, "created_at": "2017-10-20", "closed_at": "2018-05-22", "labels": ["resolution: fixed", "type: docs", "P2: required", "has: Pull Request"], "State": "closed", "Author": "coldshine"}
+{"issue_number": 10946, "created_at": "2017-10-20", "closed_at": "2017-12-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "Nimzi-Git"}
+{"issue_number": 10945, "created_at": "2017-10-20", "closed_at": "2018-12-31", "labels": ["needs: demo", "needs: more info", "resolution: invalid"], "State": "closed", "Author": "pengxianggui"}
+{"issue_number": 10944, "created_at": "2017-10-19", "closed_at": "2018-05-26", "labels": ["type: docs"], "State": "closed", "Author": "manumqln"}
+{"issue_number": 10943, "created_at": "2017-10-17", "closed_at": "2017-10-17", "labels": [], "State": "closed", "Author": "petermiles"}
+{"issue_number": 10942, "created_at": "2017-10-16", "closed_at": "2018-03-28", "labels": ["resolution: fixed", "type: docs", "P5: nice to have", "has: Pull Request"], "State": "closed", "Author": "chenlijun99"}
+{"issue_number": 10941, "created_at": "2017-10-16", "closed_at": "2019-02-13", "labels": [], "State": "closed", "Author": "desfarik"}
+{"issue_number": 10940, "created_at": "2017-10-15", "closed_at": "2018-11-21", "labels": ["needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "Chris59160"}
+{"issue_number": 10939, "created_at": "2017-10-14", "closed_at": "2017-10-14", "labels": [], "State": "closed", "Author": "desolate-planet"}
+{"issue_number": 10936, "created_at": "2017-10-12", "closed_at": "2018-05-03", "labels": ["resolution: won't fix"], "State": "closed", "Author": "ni-vo"}
+{"issue_number": 10935, "created_at": "2017-10-12", "closed_at": "2020-06-17", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P3: important", "has: Pull Request"], "State": "closed", "Author": "samithaf"}
+{"issue_number": 10934, "created_at": "2017-10-11", "closed_at": "2020-11-08", "labels": ["resolution: works as expected"], "State": "closed", "Author": "biswa1shaw"}
+{"issue_number": 10933, "created_at": "2017-10-10", "closed_at": "2017-10-10", "labels": [], "State": "closed", "Author": "jbojcic1"}
+{"issue_number": 10932, "created_at": "2017-10-10", "closed_at": "2020-11-09", "labels": ["needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "Bartaf83"}
+{"issue_number": 10931, "created_at": "2017-10-09", "closed_at": "2018-12-19", "labels": ["ui: layout", "needs: demo", "resolution: works as expected", "browser: Safari"], "State": "closed", "Author": "hoanthien92"}
+{"issue_number": 10930, "created_at": "2017-10-08", "closed_at": "2018-03-16", "labels": ["resolution: duplicate", "needs: demo", "os: iOS"], "State": "closed", "Author": "egor-xyz"}
+{"issue_number": 10929, "created_at": "2017-10-06", "closed_at": "2019-02-13", "labels": ["resolution: works as expected"], "State": "closed", "Author": "scriptsure"}
+{"issue_number": 10928, "created_at": "2017-10-06", "closed_at": "2020-05-28", "labels": ["resolution: not core"], "State": "closed", "Author": "recursionbane"}
+{"issue_number": 10927, "created_at": "2017-10-06", "closed_at": null, "labels": ["type: bug", "needs: investigation", "ux: integration", "P4: minor"], "State": "open", "Author": "gatormike"}
+{"issue_number": 10925, "created_at": "2017-10-02", "closed_at": "2020-11-09", "labels": ["resolution: fixed"], "State": "closed", "Author": "jakobadam"}
+{"issue_number": 10923, "created_at": "2017-09-30", "closed_at": "2020-11-08", "labels": ["resolution: works as expected"], "State": "closed", "Author": "rlaphoenix"}
+{"issue_number": 10921, "created_at": "2017-09-28", "closed_at": "2018-02-26", "labels": ["needs: demo", "type: ionic"], "State": "closed", "Author": "IgorZanellaDev"}
+{"issue_number": 10920, "created_at": "2017-09-27", "closed_at": "2019-02-13", "labels": [], "State": "closed", "Author": "adwaer"}
+{"issue_number": 10919, "created_at": "2017-09-27", "closed_at": "2020-10-25", "labels": ["needs: demo", "resolution: works as expected"], "State": "closed", "Author": "fullstackguyhere"}
+{"issue_number": 10918, "created_at": "2017-09-27", "closed_at": "2017-10-09", "labels": ["resolution: works as expected"], "State": "closed", "Author": "DollarAkshay"}
+{"issue_number": 10917, "created_at": "2017-09-26", "closed_at": "2017-09-26", "labels": [], "State": "closed", "Author": "chunyenHuang"}
+{"issue_number": 10915, "created_at": "2017-09-23", "closed_at": "2020-10-25", "labels": ["needs: demo"], "State": "closed", "Author": "VijaySankhat"}
+{"issue_number": 10914, "created_at": "2017-09-20", "closed_at": "2020-11-08", "labels": ["resolution: works as expected"], "State": "closed", "Author": "danieleparazza"}
+{"issue_number": 10913, "created_at": "2017-09-20", "closed_at": "2017-12-13", "labels": ["needs: more info"], "State": "closed", "Author": "userAngular"}
+{"issue_number": 10912, "created_at": "2017-09-20", "closed_at": "2018-09-19", "labels": ["resolution: fixed", "type: docs", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "aghArdeshir"}
+{"issue_number": 10911, "created_at": "2017-09-18", "closed_at": "2020-11-09", "labels": ["resolution: fixed"], "State": "closed", "Author": "agale123"}
+{"issue_number": 10910, "created_at": "2017-09-18", "closed_at": "2017-09-29", "labels": [], "State": "closed", "Author": "Romu-C"}
+{"issue_number": 10909, "created_at": "2017-09-18", "closed_at": "2018-04-10", "labels": ["resolution: fixed", "type: docs", "P2: required", "has: Pull Request"], "State": "closed", "Author": "HZooly"}
+{"issue_number": 10907, "created_at": "2017-09-15", "closed_at": "2017-09-15", "labels": [], "State": "closed", "Author": "dcu-sharepoint"}
+{"issue_number": 10906, "created_at": "2017-09-15", "closed_at": "2020-05-27", "labels": ["resolution: works as expected"], "State": "closed", "Author": "mwj-1992"}
+{"issue_number": 10905, "created_at": "2017-09-15", "closed_at": "2019-02-13", "labels": ["type: gestures", "resolution: works as expected", "os: iOS"], "State": "closed", "Author": "tstinku"}
+{"issue_number": 10904, "created_at": "2017-09-15", "closed_at": null, "labels": ["type: chore", "for: internal contributor", "P2: required"], "State": "open", "Author": "Trixter313"}
+{"issue_number": 10903, "created_at": "2017-09-14", "closed_at": "2018-02-26", "labels": ["needs: demo"], "State": "closed", "Author": "sam-g-roberts"}
+{"issue_number": 10902, "created_at": "2017-09-14", "closed_at": "2020-05-28", "labels": ["resolution: fixed", "needs: demo"], "State": "closed", "Author": "lbrevity"}
+{"issue_number": 10901, "created_at": "2017-09-14", "closed_at": "2017-09-14", "labels": [], "State": "closed", "Author": "mpschaeuble"}
+{"issue_number": 10900, "created_at": "2017-09-14", "closed_at": null, "labels": ["type: bug", "P3: important"], "State": "open", "Author": "Ram-Kale"}
+{"issue_number": 10899, "created_at": "2017-09-12", "closed_at": "2018-08-29", "labels": ["resolution: works as expected"], "State": "closed", "Author": "chadjaros"}
+{"issue_number": 10898, "created_at": "2017-09-12", "closed_at": null, "labels": ["type: bug", "type: gestures", "ui: mobile", "g3: reported", "P3: important"], "State": "open", "Author": "jelbourn"}
+{"issue_number": 10897, "created_at": "2017-09-12", "closed_at": "2018-02-18", "labels": ["resolution: fixed"], "State": "closed", "Author": "desfarik"}
+{"issue_number": 10896, "created_at": "2017-09-11", "closed_at": "2018-09-06", "labels": ["resolution: fixed", "a11y", "browser: Chrome", "g3: reported", "P1: urgent"], "State": "closed", "Author": "m1h1r0"}
+{"issue_number": 10895, "created_at": "2017-09-11", "closed_at": "2018-08-14", "labels": ["type: enhancement", "resolution: fixed", "a11y", "g3: reported", "ux: polish", "P3: important", "has: Pull Request"], "State": "closed", "Author": "EamonKavanagh"}
+{"issue_number": 10894, "created_at": "2017-09-11", "closed_at": "2019-03-06", "labels": ["type: bug", "resolution: fixed", "P3: important", "has: Pull Request"], "State": "closed", "Author": "IMM0rtalis"}
+{"issue_number": 10893, "created_at": "2017-09-11", "closed_at": "2018-03-07", "labels": [], "State": "closed", "Author": "Extarys"}
+{"issue_number": 10892, "created_at": "2017-09-07", "closed_at": null, "labels": ["needs: investigation", "P4: minor", "type: spec alignment"], "State": "open", "Author": "tyrdavis"}
+{"issue_number": 10891, "created_at": "2017-09-07", "closed_at": null, "labels": ["type: enhancement", "P4: minor"], "State": "open", "Author": "chacabuk"}
+{"issue_number": 10890, "created_at": "2017-09-07", "closed_at": "2019-02-13", "labels": ["needs: demo"], "State": "closed", "Author": "crewbeat"}
+{"issue_number": 10889, "created_at": "2017-09-06", "closed_at": "2018-06-17", "labels": ["needs: demo", "needs: more info"], "State": "closed", "Author": "mckinleymedia"}
+{"issue_number": 10888, "created_at": "2017-09-06", "closed_at": "2018-08-10", "labels": ["type: bug", "resolution: fixed", "a11y", "browser: Chrome", "g3: reported", "P2: required"], "State": "closed", "Author": "EamonKavanagh"}
+{"issue_number": 10887, "created_at": "2017-09-05", "closed_at": "2019-02-13", "labels": ["needs: demo"], "State": "closed", "Author": "AkbarAlam"}
+{"issue_number": 10884, "created_at": "2017-09-05", "closed_at": "2018-04-23", "labels": ["resolution: fixed", "type: feature", "type: gestures", "type: performance", "severity: performance", "P3: important", "has: Pull Request"], "State": "closed", "Author": "AndrewEastwood"}
+{"issue_number": 10883, "created_at": "2017-09-04", "closed_at": "2020-10-25", "labels": ["resolution: not core"], "State": "closed", "Author": "alexlavriv"}
+{"issue_number": 10882, "created_at": "2017-09-01", "closed_at": "2017-09-06", "labels": [], "State": "closed", "Author": "foxjazz"}
+{"issue_number": 10881, "created_at": "2017-09-01", "closed_at": "2017-09-05", "labels": [], "State": "closed", "Author": "corzani"}
+{"issue_number": 10880, "created_at": "2017-08-31", "closed_at": "2020-11-09", "labels": ["resolution: can't reproduce"], "State": "closed", "Author": "a300600st"}
+{"issue_number": 10879, "created_at": "2017-08-31", "closed_at": "2018-06-22", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P2: required", "has: Pull Request"], "State": "closed", "Author": "tairmansd"}
+{"issue_number": 10878, "created_at": "2017-08-30", "closed_at": "2019-08-26", "labels": ["needs: demo", "P4: minor"], "State": "closed", "Author": "Hartaxfr"}
+{"issue_number": 10877, "created_at": "2017-08-30", "closed_at": "2020-11-09", "labels": ["needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "arunparkcse"}
+{"issue_number": 10876, "created_at": "2017-08-30", "closed_at": "2019-02-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "fusionUI"}
+{"issue_number": 10875, "created_at": "2017-08-29", "closed_at": "2017-08-29", "labels": [], "State": "closed", "Author": "majapw"}
+{"issue_number": 10874, "created_at": "2017-08-28", "closed_at": "2018-12-31", "labels": ["resolution: works as expected"], "State": "closed", "Author": "matyasfodor"}
+{"issue_number": 10873, "created_at": "2017-08-28", "closed_at": "2020-05-31", "labels": ["resolution: works as expected"], "State": "closed", "Author": "holtjonathan"}
+{"issue_number": 10872, "created_at": "2017-08-28", "closed_at": "2018-08-30", "labels": ["browser: IE", "severity: inconvenient", "P4: minor"], "State": "closed", "Author": "QuentinLuc"}
+{"issue_number": 10870, "created_at": "2017-08-25", "closed_at": "2018-03-07", "labels": ["needs: demo"], "State": "closed", "Author": "Havock94"}
+{"issue_number": 10868, "created_at": "2017-08-23", "closed_at": null, "labels": ["type: bug", "needs: investigation", "severity: regression", "P2: required"], "State": "open", "Author": "mohamednizar"}
+{"issue_number": 10867, "created_at": "2017-08-23", "closed_at": "2018-01-10", "labels": ["type: docs", "P3: important", "has: Pull Request"], "State": "closed", "Author": "seb-esperanto"}
+{"issue_number": 10865, "created_at": "2017-08-22", "closed_at": "2018-03-01", "labels": ["needs: demo"], "State": "closed", "Author": "re-balance"}
+{"issue_number": 10864, "created_at": "2017-08-22", "closed_at": "2020-11-09", "labels": ["needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "Saak-sri"}
+{"issue_number": 10863, "created_at": "2017-08-21", "closed_at": "2018-03-07", "labels": ["type: docs", "P3: important", "has: Pull Request"], "State": "closed", "Author": "leosco"}
+{"issue_number": 10862, "created_at": "2017-08-19", "closed_at": "2018-03-03", "labels": ["needs: more info", "resolution: works as expected"], "State": "closed", "Author": "0101adm"}
+{"issue_number": 10861, "created_at": "2017-08-18", "closed_at": "2019-01-08", "labels": ["resolution: fixed", "a11y", "needs: investigation", "g3: reported", "P3: important"], "State": "closed", "Author": "EamonKavanagh"}
+{"issue_number": 10860, "created_at": "2017-08-18", "closed_at": "2019-06-06", "labels": ["type: bug", "P3: important"], "State": "closed", "Author": "apeeters"}
+{"issue_number": 10859, "created_at": "2017-08-18", "closed_at": "2019-02-08", "labels": ["type: bug", "resolution: fixed", "for: internal contributor", "severity: inconvenient", "ux: integration", "P3: important", "has: Pull Request"], "State": "closed", "Author": "begemott"}
+{"issue_number": 10858, "created_at": "2017-08-16", "closed_at": "2018-08-17", "labels": ["needs: demo", "needs: more info"], "State": "closed", "Author": "ayeblinkin"}
+{"issue_number": 10857, "created_at": "2017-08-16", "closed_at": "2017-09-05", "labels": [], "State": "closed", "Author": "alanpurple"}
+{"issue_number": 10856, "created_at": "2017-08-16", "closed_at": "2018-02-27", "labels": ["resolution: won't fix"], "State": "closed", "Author": "kamal2311"}
+{"issue_number": 10855, "created_at": "2017-08-15", "closed_at": "2018-08-17", "labels": ["resolution: invalid"], "State": "closed", "Author": "IAMtheIAM"}
+{"issue_number": 10854, "created_at": "2017-08-15", "closed_at": "2017-10-20", "labels": [], "State": "closed", "Author": "aimad-majdou"}
+{"issue_number": 10853, "created_at": "2017-08-15", "closed_at": null, "labels": ["type: bug", "a11y", "browser: Chrome", "g3: reported", "P3: important", "Blocked"], "State": "open", "Author": "EamonKavanagh"}
+{"issue_number": 10852, "created_at": "2017-08-14", "closed_at": "2017-09-01", "labels": [], "State": "closed", "Author": "elise-fastpay"}
+{"issue_number": 10851, "created_at": "2017-08-14", "closed_at": null, "labels": ["type: performance", "needs: investigation", "severity: performance", "P2: required"], "State": "open", "Author": "gregyichang"}
+{"issue_number": 10850, "created_at": "2017-08-14", "closed_at": "2018-11-29", "labels": ["type: bug", "resolution: fixed", "a11y", "for: internal contributor", "g3: reported", "P2: required"], "State": "closed", "Author": "EamonKavanagh"}
+{"issue_number": 10849, "created_at": "2017-08-14", "closed_at": null, "labels": ["type: build", "severity: performance", "P4: minor"], "State": "open", "Author": "westy92"}
+{"issue_number": 10848, "created_at": "2017-08-14", "closed_at": "2019-02-14", "labels": ["ui: layout", "needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "UlTMATE"}
+{"issue_number": 10847, "created_at": "2017-08-14", "closed_at": "2018-06-22", "labels": ["resolution: fixed", "P3: important", "hotlist: ngUpgrade"], "State": "closed", "Author": "ampled"}
+{"issue_number": 10844, "created_at": "2017-08-10", "closed_at": null, "labels": ["type: bug", "P3: important"], "State": "open", "Author": "s100"}
+{"issue_number": 10843, "created_at": "2017-08-10", "closed_at": "2019-02-13", "labels": ["resolution: fixed", "type: chore", "P4: minor"], "State": "closed", "Author": "yosefbennywidyo"}
+{"issue_number": 10842, "created_at": "2017-08-09", "closed_at": "2019-02-13", "labels": ["ui: theme", "ui: CSS", "resolution: works as expected"], "State": "closed", "Author": "ryannz"}
+{"issue_number": 10841, "created_at": "2017-08-09", "closed_at": "2019-02-13", "labels": ["needs: demo", "type: spec alignment"], "State": "closed", "Author": "ghost"}
+{"issue_number": 10840, "created_at": "2017-08-09", "closed_at": "2017-08-09", "labels": [], "State": "closed", "Author": "kjvelarde"}
+{"issue_number": 10839, "created_at": "2017-08-09", "closed_at": "2017-08-09", "labels": [], "State": "closed", "Author": "jisqaqov"}
+{"issue_number": 10838, "created_at": "2017-08-08", "closed_at": "2018-11-06", "labels": ["type: bug", "resolution: fixed", "a11y", "browser: Chrome", "g3: reported", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "RajivPrab-Google"}
+{"issue_number": 10837, "created_at": "2017-08-08", "closed_at": "2018-08-14", "labels": ["type: enhancement", "resolution: fixed", "a11y", "g3: reported", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "RajivPrab-Google"}
+{"issue_number": 10836, "created_at": "2017-08-07", "closed_at": "2020-05-28", "labels": ["resolution: works as expected"], "State": "closed", "Author": "p1tt1"}
+{"issue_number": 10835, "created_at": "2017-08-07", "closed_at": "2018-03-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "Harshan96"}
+{"issue_number": 10834, "created_at": "2017-08-04", "closed_at": "2018-11-06", "labels": ["type: bug", "resolution: fixed", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "czesiu"}
+{"issue_number": 10832, "created_at": "2017-08-03", "closed_at": "2017-08-05", "labels": [], "State": "closed", "Author": "Andi1990"}
+{"issue_number": 10831, "created_at": "2017-08-03", "closed_at": "2020-10-26", "labels": ["type: bug", "resolution: fixed", "P3: important", "has: Pull Request"], "State": "closed", "Author": "dbarnespaychex"}
+{"issue_number": 10830, "created_at": "2017-08-03", "closed_at": "2020-05-28", "labels": ["resolution: duplicate", "type: spec alignment"], "State": "closed", "Author": "alelau"}
+{"issue_number": 10829, "created_at": "2017-08-02", "closed_at": null, "labels": ["type: bug", "P5: nice to have"], "State": "open", "Author": "urrri"}
+{"issue_number": 10828, "created_at": "2017-08-02", "closed_at": "2017-09-27", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "mikewest"}
+{"issue_number": 10823, "created_at": "2017-07-31", "closed_at": null, "labels": ["type: bug", "for: internal contributor", "needs: investigation", "g3: reported", "P3: important"], "State": "open", "Author": "nikclayton"}
+{"issue_number": 10822, "created_at": "2017-07-28", "closed_at": "2020-11-09", "labels": ["needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "lauraerinmann"}
+{"issue_number": 10820, "created_at": "2017-07-27", "closed_at": null, "labels": ["ui: CSS", "needs: investigation", "browser: Safari", "os: iOS", "hotlist: animations"], "State": "open", "Author": "0101adm"}
+{"issue_number": 10819, "created_at": "2017-07-27", "closed_at": null, "labels": ["type: enhancement", "severity: performance", "hotlist: animations", "g3: reported", "P3: important"], "State": "open", "Author": "nikclayton"}
+{"issue_number": 10817, "created_at": "2017-07-26", "closed_at": "2019-02-15", "labels": ["needs: demo", "browser: IE", "resolution: can't reproduce", "P4: minor"], "State": "closed", "Author": "praveenaccion"}
+{"issue_number": 10816, "created_at": "2017-07-26", "closed_at": "2018-11-21", "labels": ["resolution: fixed"], "State": "closed", "Author": "mrmashal"}
+{"issue_number": 10815, "created_at": "2017-07-25", "closed_at": "2018-11-15", "labels": ["type: enhancement", "resolution: fixed", "a11y", "P3: important", "has: Pull Request"], "State": "closed", "Author": "katiehockman"}
+{"issue_number": 10814, "created_at": "2017-07-22", "closed_at": "2020-04-30", "labels": ["type: bug", "resolution: fixed", "i18n: bi-directional", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "hovavo"}
+{"issue_number": 10813, "created_at": "2017-07-21", "closed_at": "2019-02-13", "labels": ["resolution: fixed", "needs: demo"], "State": "closed", "Author": "mcverter"}
+{"issue_number": 10811, "created_at": "2017-07-21", "closed_at": "2018-12-20", "labels": ["resolution: fixed", "type: performance", "needs: more info", "severity: performance", "P3: important"], "State": "closed", "Author": "shadow1349"}
+{"issue_number": 10810, "created_at": "2017-07-21", "closed_at": "2019-02-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "peteichuk"}
+{"issue_number": 10809, "created_at": "2017-07-21", "closed_at": "2020-11-09", "labels": ["needs: more info", "resolution: can't reproduce"], "State": "closed", "Author": "FeeFelipe"}
+{"issue_number": 10808, "created_at": "2017-07-20", "closed_at": "2017-07-20", "labels": [], "State": "closed", "Author": "anvesh07"}
+{"issue_number": 10806, "created_at": "2017-07-19", "closed_at": "2020-11-09", "labels": ["type: enhancement", "resolution: won't fix", "needs: demo"], "State": "closed", "Author": "UserCoreNet"}
+{"issue_number": 10804, "created_at": "2017-07-18", "closed_at": "2017-07-21", "labels": [], "State": "closed", "Author": "0ddfell0w"}
+{"issue_number": 10803, "created_at": "2017-07-18", "closed_at": null, "labels": ["type: enhancement", "P4: minor"], "State": "open", "Author": "Iam-jegan"}
+{"issue_number": 10801, "created_at": "2017-07-18", "closed_at": "2020-11-09", "labels": ["resolution: duplicate"], "State": "closed", "Author": "matthieusieben"}
+{"issue_number": 10800, "created_at": "2017-07-17", "closed_at": "2020-05-28", "labels": ["resolution: works as expected"], "State": "closed", "Author": "caoyongfeng0214"}
+{"issue_number": 10799, "created_at": "2017-07-14", "closed_at": "2017-07-20", "labels": [], "State": "closed", "Author": "daniele-zurico"}
+{"issue_number": 10796, "created_at": "2017-07-12", "closed_at": "2017-09-06", "labels": ["resolution: duplicate"], "State": "closed", "Author": "LoganDupont"}
+{"issue_number": 10795, "created_at": "2017-07-12", "closed_at": "2017-07-14", "labels": [], "State": "closed", "Author": "spedgaonkar"}
+{"issue_number": 10794, "created_at": "2017-07-11", "closed_at": "2018-08-02", "labels": ["resolution: duplicate"], "State": "closed", "Author": "KlausSievers"}
+{"issue_number": 10793, "created_at": "2017-07-10", "closed_at": "2017-12-12", "labels": ["ui: theme", "g3: reported", "P2: required", "has: Pull Request"], "State": "closed", "Author": "rjamet"}
+{"issue_number": 10791, "created_at": "2017-07-07", "closed_at": "2017-12-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "smaldeniya"}
+{"issue_number": 10790, "created_at": "2017-07-07", "closed_at": "2017-07-07", "labels": [], "State": "closed", "Author": "srikanthgurrala"}
+{"issue_number": 10789, "created_at": "2017-07-06", "closed_at": "2017-07-06", "labels": [], "State": "closed", "Author": "horduringi"}
+{"issue_number": 10787, "created_at": "2017-07-06", "closed_at": "2018-03-13", "labels": ["needs: demo", "resolution: invalid"], "State": "closed", "Author": "HimanDev"}
+{"issue_number": 10785, "created_at": "2017-07-05", "closed_at": "2017-12-05", "labels": ["resolution: fixed"], "State": "closed", "Author": "alopezsanchez"}
+{"issue_number": 10784, "created_at": "2017-07-05", "closed_at": "2017-07-05", "labels": [], "State": "closed", "Author": "relair"}
+{"issue_number": 10783, "created_at": "2017-07-05", "closed_at": "2020-11-09", "labels": ["type: enhancement", "resolution: not core"], "State": "closed", "Author": "mrmashal"}
+{"issue_number": 10782, "created_at": "2017-07-05", "closed_at": "2018-08-17", "labels": ["ui: theme", "resolution: works as expected"], "State": "closed", "Author": "shivanisaz"}
+{"issue_number": 10781, "created_at": "2017-07-03", "closed_at": "2020-05-28", "labels": ["resolution: fixed"], "State": "closed", "Author": "aeslinger0"}
+{"issue_number": 10780, "created_at": "2017-07-03", "closed_at": "2017-07-03", "labels": [], "State": "closed", "Author": "sfarazkhan"}
+{"issue_number": 10779, "created_at": "2017-06-30", "closed_at": "2017-11-22", "labels": ["resolution: won't fix", "type: feature"], "State": "closed", "Author": "megaroeny"}
+{"issue_number": 10778, "created_at": "2017-06-29", "closed_at": "2020-10-25", "labels": ["resolution: works as expected"], "State": "closed", "Author": "newmesiss"}
+{"issue_number": 10777, "created_at": "2017-06-29", "closed_at": "2018-12-31", "labels": ["resolution: won't fix", "needs: demo"], "State": "closed", "Author": "saeedjalalisj"}
+{"issue_number": 10775, "created_at": "2017-06-28", "closed_at": "2017-06-28", "labels": [], "State": "closed", "Author": "michahell"}
+{"issue_number": 10774, "created_at": "2017-06-27", "closed_at": "2017-12-29", "labels": [], "State": "closed", "Author": "mikeabeln"}
+{"issue_number": 10772, "created_at": "2017-06-27", "closed_at": null, "labels": ["type: bug", "browser: IE", "needs: investigation", "browser: FireFox", "browser: MS Edge", "P3: important"], "State": "open", "Author": "smhc"}
+{"issue_number": 10771, "created_at": "2017-06-26", "closed_at": "2020-10-25", "labels": ["resolution: invalid"], "State": "closed", "Author": "FrancisS"}
+{"issue_number": 10770, "created_at": "2017-06-26", "closed_at": "2020-11-15", "labels": ["type: bug", "a11y", "needs: feedback", "resolution: can't reproduce", "os: iOS", "ux: integration", "P3: important"], "State": "closed", "Author": "dmatins"}
+{"issue_number": 10768, "created_at": "2017-06-25", "closed_at": "2019-02-15", "labels": ["type: performance", "needs: feedback", "hotlist: animations", "P4: minor"], "State": "closed", "Author": "PawelOwczarekFalcon"}
+{"issue_number": 10767, "created_at": "2017-06-24", "closed_at": "2019-03-28", "labels": [], "State": "closed", "Author": "abdelhakmckee"}
+{"issue_number": 10766, "created_at": "2017-06-24", "closed_at": "2020-05-28", "labels": [], "State": "closed", "Author": "cogitaria-admin"}
+{"issue_number": 10765, "created_at": "2017-06-23", "closed_at": "2019-08-19", "labels": [], "State": "closed", "Author": "elmeerr"}
+{"issue_number": 10764, "created_at": "2017-06-23", "closed_at": "2018-03-16", "labels": ["resolution: invalid"], "State": "closed", "Author": "nikita-ag"}
+{"issue_number": 10763, "created_at": "2017-06-23", "closed_at": "2020-11-09", "labels": ["resolution: works as expected"], "State": "closed", "Author": "manish2535"}
+{"issue_number": 10762, "created_at": "2017-06-22", "closed_at": "2018-09-05", "labels": ["type: build", "resolution: fixed"], "State": "closed", "Author": "jayanthm"}
+{"issue_number": 10761, "created_at": "2017-06-22", "closed_at": "2017-06-22", "labels": [], "State": "closed", "Author": "GustavoCostaW"}
+{"issue_number": 10758, "created_at": "2017-06-21", "closed_at": "2018-06-22", "labels": ["type: bug", "resolution: fixed", "a11y", "ui: focus", "for: internal contributor", "severity: regression", "ux: polish", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "lucascnr"}
+{"issue_number": 10757, "created_at": "2017-06-21", "closed_at": "2017-06-22", "labels": [], "State": "closed", "Author": "j-tee"}
+{"issue_number": 10755, "created_at": "2017-06-21", "closed_at": "2020-06-13", "labels": ["needs: demo", "needs: more info"], "State": "closed", "Author": "clientsites"}
+{"issue_number": 10754, "created_at": "2017-06-20", "closed_at": "2017-06-20", "labels": [], "State": "closed", "Author": "bdwade100"}
+{"issue_number": 10753, "created_at": "2017-06-20", "closed_at": "2017-06-21", "labels": [], "State": "closed", "Author": "BrunnerLivio"}
+{"issue_number": 10751, "created_at": "2017-06-20", "closed_at": "2018-04-18", "labels": ["resolution: works as expected", "P4: minor"], "State": "closed", "Author": "barzik"}
+{"issue_number": 10748, "created_at": "2017-06-17", "closed_at": "2020-03-10", "labels": ["type: bug", "resolution: fixed", "a11y", "for: internal contributor", "g3: reported", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "npbenjohnson"}
+{"issue_number": 10747, "created_at": "2017-06-16", "closed_at": "2020-10-25", "labels": ["type: bug", "resolution: fixed"], "State": "closed", "Author": "chearon"}
+{"issue_number": 10746, "created_at": "2017-06-16", "closed_at": "2017-06-16", "labels": [], "State": "closed", "Author": "nicolas15000"}
+{"issue_number": 10744, "created_at": "2017-06-16", "closed_at": null, "labels": ["type: performance", "severity: performance", "P3: important"], "State": "open", "Author": "Nickproger"}
+{"issue_number": 10743, "created_at": "2017-06-15", "closed_at": "2018-12-31", "labels": ["type: bug", "resolution: fixed", "type: docs", "browser: FireFox"], "State": "closed", "Author": "zhenya2224"}
+{"issue_number": 10742, "created_at": "2017-06-15", "closed_at": "2017-06-15", "labels": [], "State": "closed", "Author": "aeslinger0"}
+{"issue_number": 10741, "created_at": "2017-06-15", "closed_at": "2018-03-26", "labels": ["type: performance", "resolution: can't reproduce"], "State": "closed", "Author": "tbence94"}
+{"issue_number": 10740, "created_at": "2017-06-15", "closed_at": "2020-11-09", "labels": ["resolution: fixed", "ui: layout", "needs: demo"], "State": "closed", "Author": "michaelvalette"}
+{"issue_number": 10739, "created_at": "2017-06-15", "closed_at": "2020-11-09", "labels": ["resolution: works as expected"], "State": "closed", "Author": "zwergius"}
+{"issue_number": 10738, "created_at": "2017-06-14", "closed_at": "2018-03-27", "labels": ["type: enhancement", "a11y", "needs: demo", "needs: feedback", "P4: minor"], "State": "closed", "Author": "npbenjohnson"}
+{"issue_number": 10734, "created_at": "2017-06-13", "closed_at": "2017-06-15", "labels": ["P0: critical"], "State": "closed", "Author": "ThomasBurleson"}
+{"issue_number": 10730, "created_at": "2017-06-13", "closed_at": "2018-03-01", "labels": ["needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "AkhilNaidu09"}
+{"issue_number": 10728, "created_at": "2017-06-12", "closed_at": "2017-06-12", "labels": [], "State": "closed", "Author": "preraksola"}
+{"issue_number": 10727, "created_at": "2017-06-10", "closed_at": "2017-06-10", "labels": [], "State": "closed", "Author": "juliensie"}
+{"issue_number": 10725, "created_at": "2017-06-08", "closed_at": "2017-07-28", "labels": [], "State": "closed", "Author": "Viet47"}
+{"issue_number": 10724, "created_at": "2017-06-08", "closed_at": "2017-06-12", "labels": [], "State": "closed", "Author": "dihar"}
+{"issue_number": 10723, "created_at": "2017-06-07", "closed_at": "2018-05-26", "labels": ["needs: demo", "resolution: invalid"], "State": "closed", "Author": "Bartaf83"}
+{"issue_number": 10722, "created_at": "2017-06-07", "closed_at": "2020-05-28", "labels": ["resolution: duplicate", "needs: demo"], "State": "closed", "Author": "sivakrrish1994"}
+{"issue_number": 10721, "created_at": "2017-06-06", "closed_at": "2020-09-22", "labels": ["a11y", "g3: reported", "P2: required", "has: Pull Request"], "State": "closed", "Author": "katiehockman"}
+{"issue_number": 10720, "created_at": "2017-06-06", "closed_at": "2017-06-06", "labels": [], "State": "closed", "Author": "tsuzukayama"}
+{"issue_number": 10719, "created_at": "2017-06-06", "closed_at": "2018-02-18", "labels": ["resolution: fixed", "browser: FireFox"], "State": "closed", "Author": "AkhilNaidu09"}
+{"issue_number": 10718, "created_at": "2017-06-05", "closed_at": null, "labels": ["type: bug", "ui: CSS", "ux: polish", "P3: important"], "State": "open", "Author": "leibale"}
+{"issue_number": 10716, "created_at": "2017-06-02", "closed_at": "2017-06-09", "labels": [], "State": "closed", "Author": "LevinoMoises"}
+{"issue_number": 10715, "created_at": "2017-06-02", "closed_at": "2018-10-20", "labels": ["type: bug", "resolution: fixed", "g3: reported", "P2: required", "has: Pull Request"], "State": "closed", "Author": "tlaytongoogle"}
+{"issue_number": 10714, "created_at": "2017-06-02", "closed_at": "2019-01-07", "labels": ["type: bug", "resolution: fixed", "browser: IE", "P2: required", "has: Pull Request"], "State": "closed", "Author": "johnjesse"}
+{"issue_number": 10713, "created_at": "2017-06-02", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "DanielFurmanov"}
+{"issue_number": 10711, "created_at": "2017-06-01", "closed_at": null, "labels": ["type: bug", "ui: CSS", "P4: minor"], "State": "open", "Author": "epelc"}
+{"issue_number": 10709, "created_at": "2017-05-31", "closed_at": "2018-06-17", "labels": ["needs: demo"], "State": "closed", "Author": "aeslinger0"}
+{"issue_number": 10707, "created_at": "2017-05-31", "closed_at": "2020-11-09", "labels": ["resolution: works as expected"], "State": "closed", "Author": "matt212"}
+{"issue_number": 10705, "created_at": "2017-05-30", "closed_at": "2020-10-25", "labels": ["needs: demo", "resolution: invalid"], "State": "closed", "Author": "tiagojavaman"}
+{"issue_number": 10704, "created_at": "2017-05-30", "closed_at": "2019-06-06", "labels": ["type: enhancement", "resolution: fixed"], "State": "closed", "Author": "danillocesar"}
+{"issue_number": 10703, "created_at": "2017-05-30", "closed_at": "2017-12-13", "labels": ["resolution: fixed", "P2: required"], "State": "closed", "Author": "mcblum"}
+{"issue_number": 10702, "created_at": "2017-05-30", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "flobiwankenobi"}
+{"issue_number": 10701, "created_at": "2017-05-30", "closed_at": "2018-01-29", "labels": ["resolution: duplicate", "ui: layout", "ui: flexbox", "browser: Safari"], "State": "closed", "Author": "gearguy365"}
+{"issue_number": 10700, "created_at": "2017-05-29", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "peteichuk"}
+{"issue_number": 10699, "created_at": "2017-05-29", "closed_at": "2018-01-05", "labels": ["type: gestures", "ui: mobile", "resolution: works as expected"], "State": "closed", "Author": "leibale"}
+{"issue_number": 10698, "created_at": "2017-05-29", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "BadiuAlexandru"}
+{"issue_number": 10697, "created_at": "2017-05-29", "closed_at": "2020-11-09", "labels": ["needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "subhashekkaluru"}
+{"issue_number": 10696, "created_at": "2017-05-29", "closed_at": "2018-02-27", "labels": ["resolution: invalid"], "State": "closed", "Author": "PragramingFleur"}
+{"issue_number": 10695, "created_at": "2017-05-28", "closed_at": "2020-05-31", "labels": ["resolution: works as expected"], "State": "closed", "Author": "jainshravan123"}
+{"issue_number": 10694, "created_at": "2017-05-27", "closed_at": "2017-05-27", "labels": [], "State": "closed", "Author": "KristianTyskyi"}
+{"issue_number": 10693, "created_at": "2017-05-26", "closed_at": "2017-05-26", "labels": [], "State": "closed", "Author": "renatosistemasvc"}
+{"issue_number": 10692, "created_at": "2017-05-26", "closed_at": "2017-06-14", "labels": ["P0: critical"], "State": "closed", "Author": "gberger101"}
+{"issue_number": 10691, "created_at": "2017-05-26", "closed_at": null, "labels": ["browser: IE", "needs: investigation", "P4: minor"], "State": "open", "Author": "Gaurav9969351313"}
+{"issue_number": 10690, "created_at": "2017-05-25", "closed_at": "2017-05-27", "labels": [], "State": "closed", "Author": "alluri24"}
+{"issue_number": 10689, "created_at": "2017-05-25", "closed_at": "2019-02-14", "labels": ["needs: demo", "resolution: invalid", "os: iOS"], "State": "closed", "Author": "mananjindal1818"}
+{"issue_number": 10687, "created_at": "2017-05-24", "closed_at": "2017-05-25", "labels": [], "State": "closed", "Author": "ultish"}
+{"issue_number": 10686, "created_at": "2017-05-24", "closed_at": "2019-06-06", "labels": ["resolution: won't fix", "type: feature", "P4: minor"], "State": "closed", "Author": "3vi21"}
+{"issue_number": 10682, "created_at": "2017-05-23", "closed_at": "2017-05-24", "labels": [], "State": "closed", "Author": "X4V1"}
+{"issue_number": 10681, "created_at": "2017-05-23", "closed_at": "2020-11-09", "labels": ["needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "LaureMonlouis"}
+{"issue_number": 10680, "created_at": "2017-05-23", "closed_at": null, "labels": ["type: performance", "needs: investigation", "severity: performance", "P3: important"], "State": "open", "Author": "Nickproger"}
+{"issue_number": 10679, "created_at": "2017-05-23", "closed_at": "2020-05-27", "labels": ["resolution: won't fix"], "State": "closed", "Author": "duyh90"}
+{"issue_number": 10677, "created_at": "2017-05-21", "closed_at": null, "labels": [], "State": "open", "Author": "ghost"}
+{"issue_number": 10676, "created_at": "2017-05-20", "closed_at": "2018-03-27", "labels": ["resolution: duplicate"], "State": "closed", "Author": "matraned"}
+{"issue_number": 10675, "created_at": "2017-05-19", "closed_at": "2020-11-15", "labels": ["type: bug", "ui: mobile", "needs: feedback", "resolution: can't reproduce", "os: iOS", "ux: polish", "P3: important"], "State": "closed", "Author": "8-bitTom"}
+{"issue_number": 10674, "created_at": "2017-05-18", "closed_at": "2018-12-19", "labels": ["needs: demo", "browser: IE", "resolution: can't reproduce"], "State": "closed", "Author": "shirishpickup"}
+{"issue_number": 10673, "created_at": "2017-05-18", "closed_at": "2018-04-08", "labels": ["resolution: invalid"], "State": "closed", "Author": "SK0RM"}
+{"issue_number": 10672, "created_at": "2017-05-18", "closed_at": "2018-04-17", "labels": ["resolution: works as expected"], "State": "closed", "Author": "m3Lith"}
+{"issue_number": 10671, "created_at": "2017-05-17", "closed_at": "2018-03-13", "labels": ["resolution: invalid"], "State": "closed", "Author": "mohan-mu"}
+{"issue_number": 10670, "created_at": "2017-05-17", "closed_at": "2018-02-27", "labels": ["resolution: won't fix"], "State": "closed", "Author": "rbleuse"}
+{"issue_number": 10669, "created_at": "2017-05-16", "closed_at": null, "labels": ["type: ionic"], "State": "open", "Author": "LukeM12"}
+{"issue_number": 10668, "created_at": "2017-05-16", "closed_at": "2018-08-14", "labels": ["needs: demo", "type: performance", "resolution: can't reproduce", "P3: important", "has: Pull Request"], "State": "closed", "Author": "feichao"}
+{"issue_number": 10666, "created_at": "2017-05-14", "closed_at": null, "labels": ["type: enhancement", "P5: nice to have"], "State": "open", "Author": "DeneroWatz"}
+{"issue_number": 10665, "created_at": "2017-05-12", "closed_at": "2020-11-09", "labels": ["needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "hadihonarvar"}
+{"issue_number": 10664, "created_at": "2017-05-11", "closed_at": "2018-06-22", "labels": ["type: bug", "resolution: fixed", "P2: required", "has: Pull Request"], "State": "closed", "Author": "DeneroWatz"}
+{"issue_number": 10663, "created_at": "2017-05-11", "closed_at": "2018-06-11", "labels": ["resolution: works as expected"], "State": "closed", "Author": "DeneroWatz"}
+{"issue_number": 10662, "created_at": "2017-05-11", "closed_at": "2019-02-12", "labels": ["type: gestures", "needs: more info"], "State": "closed", "Author": "AlexTimofeyev"}
+{"issue_number": 10661, "created_at": "2017-05-11", "closed_at": "2020-05-31", "labels": ["resolution: can't reproduce"], "State": "closed", "Author": "deephakdd"}
+{"issue_number": 10660, "created_at": "2017-05-11", "closed_at": "2020-11-09", "labels": ["needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "alagarrk"}
+{"issue_number": 10659, "created_at": "2017-05-11", "closed_at": "2020-11-09", "labels": ["needs: demo", "resolution: works as expected"], "State": "closed", "Author": "Remco75"}
+{"issue_number": 10658, "created_at": "2017-05-10", "closed_at": "2020-07-28", "labels": ["type: enhancement", "ui: CSS", "P4: minor", "CSS:  High Density"], "State": "closed", "Author": "gustavocampos"}
+{"issue_number": 10657, "created_at": "2017-05-10", "closed_at": "2018-08-28", "labels": ["needs: feedback", "severity: regression"], "State": "closed", "Author": "DeneroWatz"}
+{"issue_number": 10656, "created_at": "2017-05-10", "closed_at": "2018-04-08", "labels": ["resolution: invalid"], "State": "closed", "Author": "SK0RM"}
+{"issue_number": 10655, "created_at": "2017-05-10", "closed_at": "2020-12-16", "labels": ["needs: demo", "browser: IE", "needs: more info", "resolution: can't reproduce"], "State": "closed", "Author": "KrlosG"}
+{"issue_number": 10654, "created_at": "2017-05-10", "closed_at": "2017-12-29", "labels": ["resolution: invalid"], "State": "closed", "Author": "user2301"}
+{"issue_number": 10653, "created_at": "2017-05-10", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "rudzikdawid"}
+{"issue_number": 10652, "created_at": "2017-05-10", "closed_at": "2018-12-19", "labels": ["ui: layout", "resolution: works as expected"], "State": "closed", "Author": "kapil-adroitminds"}
+{"issue_number": 10649, "created_at": "2017-05-09", "closed_at": "2017-05-10", "labels": [], "State": "closed", "Author": "salkz"}
+{"issue_number": 10648, "created_at": "2017-05-07", "closed_at": "2017-05-08", "labels": [], "State": "closed", "Author": "originrobot"}
+{"issue_number": 10647, "created_at": "2017-05-06", "closed_at": "2017-05-06", "labels": [], "State": "closed", "Author": "Arti3DPlayer"}
+{"issue_number": 10646, "created_at": "2017-05-04", "closed_at": "2019-06-06", "labels": ["needs: demo", "resolution: works as expected"], "State": "closed", "Author": "zNegative"}
+{"issue_number": 10645, "created_at": "2017-05-04", "closed_at": "2020-10-25", "labels": ["resolution: works as expected"], "State": "closed", "Author": "tangb"}
+{"issue_number": 10644, "created_at": "2017-05-04", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "Burtan"}
+{"issue_number": 10643, "created_at": "2017-05-04", "closed_at": "2018-12-19", "labels": ["ui: layout", "ui: CSS", "browser: Safari"], "State": "closed", "Author": "Burtan"}
+{"issue_number": 10642, "created_at": "2017-05-04", "closed_at": "2019-02-12", "labels": ["needs: feedback", "needs: more info", "resolution: invalid"], "State": "closed", "Author": "Dakshank"}
+{"issue_number": 10641, "created_at": "2017-05-03", "closed_at": "2017-06-13", "labels": ["needs: demo", "resolution: invalid"], "State": "closed", "Author": "lexyfeito"}
+{"issue_number": 10640, "created_at": "2017-05-03", "closed_at": "2019-01-07", "labels": ["type: bug", "resolution: fixed", "a11y", "browser: IE", "ux: integration", "ux: polish", "P3: important", "has: Pull Request"], "State": "closed", "Author": "apalayret"}
+{"issue_number": 10639, "created_at": "2017-05-03", "closed_at": "2020-11-15", "labels": ["i18n: localization", "resolution: works as expected"], "State": "closed", "Author": "yossivcita"}
+{"issue_number": 10638, "created_at": "2017-05-02", "closed_at": "2020-11-08", "labels": ["needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "nitishkumarnitc"}
+{"issue_number": 10637, "created_at": "2017-05-02", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "isherwood"}
+{"issue_number": 10636, "created_at": "2017-05-02", "closed_at": "2018-06-22", "labels": ["resolution: fixed", "type: performance", "severity: performance", "P1: urgent", "hotlist: ngUpgrade"], "State": "closed", "Author": "andrei-ivanovici"}
+{"issue_number": 10635, "created_at": "2017-05-02", "closed_at": null, "labels": ["type: bug", "severity: inconvenient", "ux: integration", "P4: minor"], "State": "open", "Author": "aeslinger0"}
+{"issue_number": 10634, "created_at": "2017-04-30", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "yjbyf"}
+{"issue_number": 10633, "created_at": "2017-04-28", "closed_at": "2018-05-26", "labels": ["resolution: works as expected"], "State": "closed", "Author": "zevenements"}
+{"issue_number": 10632, "created_at": "2017-04-28", "closed_at": "2020-11-08", "labels": ["needs: demo", "resolution: works as expected"], "State": "closed", "Author": "matheuscaldasrj"}
+{"issue_number": 10631, "created_at": "2017-04-28", "closed_at": null, "labels": ["type: bug", "P4: minor"], "State": "open", "Author": "brianrodecap"}
+{"issue_number": 10630, "created_at": "2017-04-28", "closed_at": "2020-07-31", "labels": ["type: bug", "resolution: fixed", "severity: regression", "ux: polish", "P2: required", "has: Pull Request"], "State": "closed", "Author": "AI3Zakir"}
+{"issue_number": 10629, "created_at": "2017-04-28", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "aby0007"}
+{"issue_number": 10628, "created_at": "2017-04-28", "closed_at": "2019-06-06", "labels": ["needs: demo", "browser: IE"], "State": "closed", "Author": "tom94zoe"}
+{"issue_number": 10627, "created_at": "2017-04-28", "closed_at": "2018-05-19", "labels": ["resolution: works as expected"], "State": "closed", "Author": "wcmboy"}
+{"issue_number": 10625, "created_at": "2017-04-28", "closed_at": "2020-11-09", "labels": ["needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "h9945394143"}
+{"issue_number": 10624, "created_at": "2017-04-27", "closed_at": "2020-10-25", "labels": ["a11y", "resolution: can't reproduce"], "State": "closed", "Author": "jonathantyates"}
+{"issue_number": 10623, "created_at": "2017-04-27", "closed_at": "2018-02-18", "labels": ["resolution: fixed"], "State": "closed", "Author": "jayeshrwo"}
+{"issue_number": 10622, "created_at": "2017-04-27", "closed_at": "2020-09-21", "labels": ["type: bug", "resolution: fixed", "ui: CSS", "os: iOS", "type: ionic", "ux: integration", "P3: important", "has: Pull Request"], "State": "closed", "Author": "ImaginationHub"}
+{"issue_number": 10621, "created_at": "2017-04-27", "closed_at": "2019-02-12", "labels": ["type: bug", "needs: demo", "browser: IE", "needs: more info", "resolution: can't reproduce"], "State": "closed", "Author": "SalilLambe"}
+{"issue_number": 10620, "created_at": "2017-04-27", "closed_at": "2017-04-27", "labels": [], "State": "closed", "Author": "JongSikLim"}
+{"issue_number": 10619, "created_at": "2017-04-26", "closed_at": "2019-01-07", "labels": ["resolution: fixed", "browser: FireFox", "P2: required", "has: Pull Request"], "State": "closed", "Author": "kgriffiths"}
+{"issue_number": 10618, "created_at": "2017-04-26", "closed_at": "2020-10-25", "labels": ["resolution: fixed", "type: performance", "severity: performance"], "State": "closed", "Author": "avelad"}
+{"issue_number": 10617, "created_at": "2017-04-24", "closed_at": "2020-11-09", "labels": ["resolution: can't reproduce"], "State": "closed", "Author": "nd-victor"}
+{"issue_number": 10616, "created_at": "2017-04-24", "closed_at": "2018-12-15", "labels": ["resolution: invalid"], "State": "closed", "Author": "dharveshmydeen"}
+{"issue_number": 10615, "created_at": "2017-04-24", "closed_at": "2018-12-15", "labels": ["resolution: fixed", "browser: MS Edge"], "State": "closed", "Author": "dharveshmydeen"}
+{"issue_number": 10612, "created_at": "2017-04-24", "closed_at": "2018-12-31", "labels": ["resolution: works as expected"], "State": "closed", "Author": "samal-rasmussen"}
+{"issue_number": 10611, "created_at": "2017-04-24", "closed_at": "2018-09-04", "labels": ["resolution: invalid"], "State": "closed", "Author": "PeaFull"}
+{"issue_number": 10610, "created_at": "2017-04-23", "closed_at": "2017-04-27", "labels": [], "State": "closed", "Author": "patrikx3"}
+{"issue_number": 10609, "created_at": "2017-04-22", "closed_at": "2020-11-15", "labels": ["type: bug", "needs: feedback", "P4: minor"], "State": "closed", "Author": "marius-klimantavicius"}
+{"issue_number": 10608, "created_at": "2017-04-22", "closed_at": "2020-10-25", "labels": ["resolution: works as expected"], "State": "closed", "Author": "Olivier-Henry"}
+{"issue_number": 10607, "created_at": "2017-04-21", "closed_at": "2017-04-22", "labels": [], "State": "closed", "Author": "qgliu"}
+{"issue_number": 10605, "created_at": "2017-04-21", "closed_at": "2017-04-21", "labels": [], "State": "closed", "Author": "p3pp8"}
+{"issue_number": 10604, "created_at": "2017-04-21", "closed_at": "2020-11-15", "labels": ["type: enhancement", "needs: feedback", "severity: inconvenient", "P5: nice to have"], "State": "closed", "Author": "praveenk-telsiz"}
+{"issue_number": 10602, "created_at": "2017-04-20", "closed_at": "2017-04-20", "labels": [], "State": "closed", "Author": "saffabook"}
+{"issue_number": 10601, "created_at": "2017-04-20", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "koshtubh1095"}
+{"issue_number": 10599, "created_at": "2017-04-19", "closed_at": null, "labels": ["type: docs", "severity: inconvenient", "P4: minor"], "State": "open", "Author": "tmjfitch"}
+{"issue_number": 10598, "created_at": "2017-04-19", "closed_at": "2020-06-29", "labels": ["type: enhancement", "i18n: localization", "P2: required", "has: Pull Request"], "State": "closed", "Author": "ericsvendsen"}
+{"issue_number": 10597, "created_at": "2017-04-19", "closed_at": "2018-12-18", "labels": ["resolution: can't reproduce", "browser: Safari", "os: iOS"], "State": "closed", "Author": "cse-t-kutsuna"}
+{"issue_number": 10595, "created_at": "2017-04-18", "closed_at": "2017-12-18", "labels": ["needs: demo", "needs: more info", "resolution: can't reproduce"], "State": "closed", "Author": "Ashish142"}
+{"issue_number": 10593, "created_at": "2017-04-17", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "bperezglez"}
+{"issue_number": 10592, "created_at": "2017-04-17", "closed_at": null, "labels": ["type: bug", "P4: minor"], "State": "open", "Author": "KimAlexander"}
+{"issue_number": 10591, "created_at": "2017-04-17", "closed_at": "2017-06-06", "labels": [], "State": "closed", "Author": "jainshravan123"}
+{"issue_number": 10590, "created_at": "2017-04-17", "closed_at": "2017-06-06", "labels": [], "State": "closed", "Author": "abadru"}
+{"issue_number": 10589, "created_at": "2017-04-17", "closed_at": "2017-06-06", "labels": [], "State": "closed", "Author": "Ashish142"}
+{"issue_number": 10588, "created_at": "2017-04-14", "closed_at": "2018-02-18", "labels": ["resolution: fixed", "browser: IE", "browser: FireFox"], "State": "closed", "Author": "EightArmCode"}
+{"issue_number": 10587, "created_at": "2017-04-13", "closed_at": "2017-04-13", "labels": [], "State": "closed", "Author": "mariohmol"}
+{"issue_number": 10585, "created_at": "2017-04-13", "closed_at": null, "labels": ["type: bug", "needs: investigation", "severity: inconvenient", "ux: integration", "P3: important"], "State": "open", "Author": "Liam-Tait"}
+{"issue_number": 10584, "created_at": "2017-04-13", "closed_at": "2017-12-12", "labels": ["type: bug", "P3: important", "has: Pull Request"], "State": "closed", "Author": "reesemartin"}
+{"issue_number": 10583, "created_at": "2017-04-12", "closed_at": "2018-12-31", "labels": ["needs: more info"], "State": "closed", "Author": "sivaparlapalle"}
+{"issue_number": 10582, "created_at": "2017-04-11", "closed_at": "2017-07-18", "labels": ["a11y"], "State": "closed", "Author": "calebegg"}
+{"issue_number": 10581, "created_at": "2017-04-11", "closed_at": "2017-04-12", "labels": [], "State": "closed", "Author": "roelzkie15"}
+{"issue_number": 10580, "created_at": "2017-04-11", "closed_at": "2017-04-11", "labels": [], "State": "closed", "Author": "rajathms"}
+{"issue_number": 10579, "created_at": "2017-04-10", "closed_at": "2018-01-24", "labels": [], "State": "closed", "Author": "rahulgupta20nov"}
+{"issue_number": 10578, "created_at": "2017-04-10", "closed_at": "2017-04-25", "labels": [], "State": "closed", "Author": "thib-rdr"}
+{"issue_number": 10577, "created_at": "2017-04-09", "closed_at": "2018-03-27", "labels": ["resolution: works as expected"], "State": "closed", "Author": "mherarsh"}
+{"issue_number": 10576, "created_at": "2017-04-08", "closed_at": "2017-05-08", "labels": [], "State": "closed", "Author": "denghauser"}
+{"issue_number": 10575, "created_at": "2017-04-07", "closed_at": "2017-04-07", "labels": [], "State": "closed", "Author": "ITAndy23"}
+{"issue_number": 10574, "created_at": "2017-04-07", "closed_at": "2017-05-08", "labels": ["resolution: duplicate"], "State": "closed", "Author": "giacomok"}
+{"issue_number": 10573, "created_at": "2017-04-07", "closed_at": "2019-01-05", "labels": ["type: bug", "resolution: fixed", "a11y", "ux: polish", "P3: important", "has: Pull Request"], "State": "closed", "Author": "p4pramod"}
+{"issue_number": 10572, "created_at": "2017-04-06", "closed_at": "2018-04-08", "labels": ["type: bug", "resolution: won't fix", "type: gestures", "ui: mobile", "browser: Android"], "State": "closed", "Author": "snsullivan"}
+{"issue_number": 10571, "created_at": "2017-04-06", "closed_at": "2017-04-06", "labels": [], "State": "closed", "Author": "alagarrk"}
+{"issue_number": 10570, "created_at": "2017-04-05", "closed_at": "2018-08-11", "labels": ["type: bug", "resolution: fixed", "a11y", "browser: Chrome", "P2: required", "has: Pull Request"], "State": "closed", "Author": "adinaelisheva"}
+{"issue_number": 10569, "created_at": "2017-04-05", "closed_at": "2017-04-07", "labels": [], "State": "closed", "Author": "fogcitymarathoner"}
+{"issue_number": 10568, "created_at": "2017-04-05", "closed_at": null, "labels": ["needs: investigation", "severity: performance", "ux: integration", "P4: minor"], "State": "open", "Author": "srweeks"}
+{"issue_number": 10567, "created_at": "2017-04-05", "closed_at": "2018-05-27", "labels": ["type: enhancement", "resolution: fixed", "needs: demo", "needs: feedback", "P3: important", "hotlist: ngUpgrade"], "State": "closed", "Author": "smcardle"}
+{"issue_number": 10565, "created_at": "2017-04-04", "closed_at": "2017-12-12", "labels": ["resolution: fixed", "a11y", "g3: reported"], "State": "closed", "Author": "daiches"}
+{"issue_number": 10564, "created_at": "2017-04-04", "closed_at": "2018-01-11", "labels": ["resolution: duplicate"], "State": "closed", "Author": "elad2109"}
+{"issue_number": 10562, "created_at": "2017-04-04", "closed_at": "2020-10-26", "labels": ["resolution: fixed", "type: docs", "P2: required", "has: Pull Request"], "State": "closed", "Author": "simonemazzoni"}
+{"issue_number": 10561, "created_at": "2017-04-03", "closed_at": null, "labels": ["type: bug", "severity: inconvenient", "ux: integration", "ux: polish", "P4: minor"], "State": "open", "Author": "bunjiboys"}
+{"issue_number": 10560, "created_at": "2017-04-03", "closed_at": null, "labels": ["type: bug", "needs: investigation", "P3: important"], "State": "open", "Author": "Head"}
+{"issue_number": 10559, "created_at": "2017-04-02", "closed_at": "2020-10-25", "labels": ["resolution: can't reproduce"], "State": "closed", "Author": "amitport"}
+{"issue_number": 10558, "created_at": "2017-04-02", "closed_at": "2020-10-25", "labels": ["needs: demo", "needs: more info", "hotlist: ngUpgrade"], "State": "closed", "Author": "rahulrsingh09"}
+{"issue_number": 10557, "created_at": "2017-04-01", "closed_at": null, "labels": ["needs: more info", "browser: Safari", "os: iOS", "P5: nice to have"], "State": "open", "Author": "Paalt"}
+{"issue_number": 10554, "created_at": "2017-03-31", "closed_at": "2017-06-13", "labels": ["type: enhancement", "g3: reported"], "State": "closed", "Author": "jelbourn"}
+{"issue_number": 10553, "created_at": "2017-03-31", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "AyzPat"}
+{"issue_number": 10551, "created_at": "2017-03-30", "closed_at": null, "labels": ["type: feature", "needs: team discussion", "P5: nice to have"], "State": "open", "Author": "topherfangio"}
+{"issue_number": 10548, "created_at": "2017-03-30", "closed_at": "2020-11-15", "labels": ["needs: feedback", "P4: minor"], "State": "closed", "Author": "JavierSalvador"}
+{"issue_number": 10547, "created_at": "2017-03-30", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "sm-hejazi"}
+{"issue_number": 10546, "created_at": "2017-03-30", "closed_at": "2020-09-14", "labels": ["type: bug", "needs: demo", "severity: regression", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "iberbeu"}
+{"issue_number": 10544, "created_at": "2017-03-30", "closed_at": "2017-06-13", "labels": ["resolution: fixed", "ui: theme"], "State": "closed", "Author": "onigetoc"}
+{"issue_number": 10543, "created_at": "2017-03-29", "closed_at": "2018-01-22", "labels": ["type: bug", "resolution: fixed", "- Lots of Comments", "severity: regression", "P2: required", "has: Pull Request"], "State": "closed", "Author": "IMM0rtalis"}
+{"issue_number": 10542, "created_at": "2017-03-29", "closed_at": "2018-01-11", "labels": ["resolution: duplicate"], "State": "closed", "Author": "stephnr"}
+{"issue_number": 10541, "created_at": "2017-03-29", "closed_at": "2020-10-26", "labels": ["type: bug", "resolution: fixed", "ui: CSS", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "DMDc0de"}
+{"issue_number": 10540, "created_at": "2017-03-29", "closed_at": "2018-02-26", "labels": ["type: bug", "resolution: fixed", "severity: regression", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "IMM0rtalis"}
+{"issue_number": 10539, "created_at": "2017-03-29", "closed_at": null, "labels": ["type: enhancement", "P4: minor"], "State": "open", "Author": "lukasborawski"}
+{"issue_number": 10538, "created_at": "2017-03-29", "closed_at": "2020-05-31", "labels": ["resolution: works as expected"], "State": "closed", "Author": "floreks"}
+{"issue_number": 10536, "created_at": "2017-03-28", "closed_at": "2017-07-18", "labels": [], "State": "closed", "Author": "mohsen77sk"}
+{"issue_number": 10535, "created_at": "2017-03-27", "closed_at": "2020-07-22", "labels": ["ui: CSS", "- Breaking Change", "g3: reported", "P2: required", "has: Pull Request", "type: spec alignment"], "State": "closed", "Author": "aipsensmall"}
+{"issue_number": 10534, "created_at": "2017-03-27", "closed_at": "2018-03-01", "labels": ["resolution: works as expected"], "State": "closed", "Author": "du6"}
+{"issue_number": 10533, "created_at": "2017-03-27", "closed_at": "2020-05-27", "labels": ["needs: demo"], "State": "closed", "Author": "sameershaik90"}
+{"issue_number": 10532, "created_at": "2017-03-27", "closed_at": "2018-06-22", "labels": ["type: bug", "resolution: fixed", "ui: mobile", "P3: important", "has: Pull Request"], "State": "closed", "Author": "matew17"}
+{"issue_number": 10531, "created_at": "2017-03-26", "closed_at": "2018-02-27", "labels": ["resolution: invalid"], "State": "closed", "Author": "jbacalo"}
+{"issue_number": 10530, "created_at": "2017-03-26", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "BigBadaboom"}
+{"issue_number": 10529, "created_at": "2017-03-23", "closed_at": "2018-01-21", "labels": ["resolution: duplicate"], "State": "closed", "Author": "eb-clickfusion"}
+{"issue_number": 10526, "created_at": "2017-03-23", "closed_at": "2018-09-10", "labels": ["resolution: fixed", "type: gestures", "needs: demo", "browser: IE", "g3: reported", "P3: important", "has: Pull Request"], "State": "closed", "Author": "nenicmar"}
+{"issue_number": 10525, "created_at": "2017-03-22", "closed_at": "2018-03-01", "labels": [], "State": "closed", "Author": "rahulgupta20nov"}
+{"issue_number": 10523, "created_at": "2017-03-21", "closed_at": "2020-10-24", "labels": ["needs: demo", "resolution: invalid"], "State": "closed", "Author": "redpanda8814"}
+{"issue_number": 10522, "created_at": "2017-03-21", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "bentaly"}
+{"issue_number": 10521, "created_at": "2017-03-21", "closed_at": "2018-02-11", "labels": ["resolution: duplicate"], "State": "closed", "Author": "jithureddy"}
+{"issue_number": 10518, "created_at": "2017-03-20", "closed_at": "2018-02-11", "labels": ["resolution: fixed", "ui: mobile", "browser: Android", "g3: reported"], "State": "closed", "Author": "adinaelisheva"}
+{"issue_number": 10516, "created_at": "2017-03-20", "closed_at": "2017-06-13", "labels": ["ui: flexbox"], "State": "closed", "Author": "lucasmaj"}
+{"issue_number": 10515, "created_at": "2017-03-20", "closed_at": "2020-09-07", "labels": ["resolution: duplicate"], "State": "closed", "Author": "striche2"}
+{"issue_number": 10514, "created_at": "2017-03-20", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "raminenisk2003"}
+{"issue_number": 10513, "created_at": "2017-03-20", "closed_at": "2020-09-07", "labels": ["resolution: duplicate", "type: enhancement"], "State": "closed", "Author": "lashisu"}
+{"issue_number": 10512, "created_at": "2017-03-19", "closed_at": "2017-10-12", "labels": [], "State": "closed", "Author": "StefH"}
+{"issue_number": 10510, "created_at": "2017-03-17", "closed_at": "2017-07-18", "labels": ["a11y", "g3: reported", "has: Pull Request"], "State": "closed", "Author": "du6"}
+{"issue_number": 10508, "created_at": "2017-03-17", "closed_at": "2020-12-15", "labels": ["resolution: works as expected", "g3: reported", "P2: required"], "State": "closed", "Author": "yueluog"}
+{"issue_number": 10507, "created_at": "2017-03-17", "closed_at": "2017-03-18", "labels": [], "State": "closed", "Author": "lashisu"}
+{"issue_number": 10505, "created_at": "2017-03-17", "closed_at": "2017-03-27", "labels": ["resolution: invalid"], "State": "closed", "Author": "surjit"}
+{"issue_number": 10504, "created_at": "2017-03-16", "closed_at": "2017-03-30", "labels": ["g3: reported", "P1: urgent"], "State": "closed", "Author": "shyndman"}
+{"issue_number": 10503, "created_at": "2017-03-16", "closed_at": "2017-03-18", "labels": [], "State": "closed", "Author": "jmazin"}
+{"issue_number": 10501, "created_at": "2017-03-16", "closed_at": "2017-03-18", "labels": [], "State": "closed", "Author": "supportQuadra"}
+{"issue_number": 10500, "created_at": "2017-03-16", "closed_at": null, "labels": ["type: enhancement", "P5: nice to have", "has: Pull Request"], "State": "open", "Author": "lashisu"}
+{"issue_number": 10499, "created_at": "2017-03-16", "closed_at": "2017-03-18", "labels": [], "State": "closed", "Author": "adahbingee"}
+{"issue_number": 10495, "created_at": "2017-03-15", "closed_at": "2017-05-09", "labels": ["type: bug", "has: Pull Request"], "State": "closed", "Author": "GuyPie"}
+{"issue_number": 10494, "created_at": "2017-03-15", "closed_at": "2017-03-16", "labels": [], "State": "closed", "Author": "maciaszczykm"}
+{"issue_number": 10492, "created_at": "2017-03-14", "closed_at": "2017-05-10", "labels": [], "State": "closed", "Author": "mprokopowicz"}
+{"issue_number": 10490, "created_at": "2017-03-13", "closed_at": "2017-03-21", "labels": ["needs: demo", "P5: nice to have"], "State": "closed", "Author": "simonemazzoni"}
+{"issue_number": 10489, "created_at": "2017-03-13", "closed_at": "2017-06-13", "labels": ["needs: demo", "P5: nice to have"], "State": "closed", "Author": "truonghoangnguyen"}
+{"issue_number": 10487, "created_at": "2017-03-13", "closed_at": "2017-03-18", "labels": [], "State": "closed", "Author": "anooppvkeloth"}
+{"issue_number": 10486, "created_at": "2017-03-12", "closed_at": "2017-06-13", "labels": ["needs: demo", "P5: nice to have"], "State": "closed", "Author": "claubanu"}
+{"issue_number": 10485, "created_at": "2017-03-12", "closed_at": "2017-03-12", "labels": [], "State": "closed", "Author": "je3f0o"}
+{"issue_number": 10484, "created_at": "2017-03-10", "closed_at": "2017-06-13", "labels": [], "State": "closed", "Author": "iiredalert"}
+{"issue_number": 10483, "created_at": "2017-03-10", "closed_at": "2017-03-10", "labels": [], "State": "closed", "Author": "lukecorf"}
+{"issue_number": 10482, "created_at": "2017-03-10", "closed_at": "2017-04-11", "labels": ["needs: demo", "P5: nice to have"], "State": "closed", "Author": "Head"}
+{"issue_number": 10480, "created_at": "2017-03-09", "closed_at": null, "labels": ["type: bug", "ui: browser"], "State": "open", "Author": "DiegoMartinUY"}
+{"issue_number": 10479, "created_at": "2017-03-09", "closed_at": "2020-03-05", "labels": ["type: bug", "resolution: fixed", "severity: inconvenient", "ux: polish", "P5: nice to have", "has: Pull Request"], "State": "closed", "Author": "ghost"}
+{"issue_number": 10475, "created_at": "2017-03-08", "closed_at": "2017-03-09", "labels": [], "State": "closed", "Author": "MatthewVita"}
+{"issue_number": 10471, "created_at": "2017-03-08", "closed_at": "2017-03-08", "labels": [], "State": "closed", "Author": "aFlappyPig"}
+{"issue_number": 10468, "created_at": "2017-03-07", "closed_at": "2017-03-13", "labels": ["g3: reported", "P4: minor"], "State": "closed", "Author": "drinkspiller"}
+{"issue_number": 10467, "created_at": "2017-03-07", "closed_at": "2017-03-13", "labels": ["has: Pull Request"], "State": "closed", "Author": "leosco"}
+{"issue_number": 10463, "created_at": "2017-03-07", "closed_at": "2017-03-07", "labels": [], "State": "closed", "Author": "jfyzhao"}
+{"issue_number": 10461, "created_at": "2017-03-06", "closed_at": "2018-07-26", "labels": ["type: bug", "resolution: fixed", "for: internal contributor", "hotlist: animations", "P1: urgent", "has: Pull Request"], "State": "closed", "Author": "ThomasBurleson"}
+{"issue_number": 10460, "created_at": "2017-03-06", "closed_at": "2017-03-08", "labels": ["type: bug", "P1: urgent"], "State": "closed", "Author": "ThomasBurleson"}
+{"issue_number": 10459, "created_at": "2017-03-05", "closed_at": "2017-03-07", "labels": [], "State": "closed", "Author": "RedFour"}
+{"issue_number": 10458, "created_at": "2017-03-05", "closed_at": "2017-03-13", "labels": ["resolution: fixed", "P3: important", "has: Pull Request"], "State": "closed", "Author": "EladBezalel"}
+{"issue_number": 10456, "created_at": "2017-03-04", "closed_at": null, "labels": ["type: bug", "needs: investigation", "P3: important"], "State": "open", "Author": "foxcode3"}
+{"issue_number": 10454, "created_at": "2017-03-03", "closed_at": "2017-03-03", "labels": [], "State": "closed", "Author": "darrenbrett"}
+{"issue_number": 10453, "created_at": "2017-03-03", "closed_at": "2017-05-10", "labels": ["resolution: fixed", "g3: reported", "has: Pull Request"], "State": "closed", "Author": "csvn"}
+{"issue_number": 10451, "created_at": "2017-03-03", "closed_at": "2018-08-14", "labels": ["needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "konan2"}
+{"issue_number": 10450, "created_at": "2017-03-03", "closed_at": "2018-03-01", "labels": ["resolution: works as expected"], "State": "closed", "Author": "Bobdina"}
+{"issue_number": 10449, "created_at": "2017-03-02", "closed_at": "2017-03-25", "labels": ["P5: nice to have"], "State": "closed", "Author": "wilker7ribeiro"}
+{"issue_number": 10447, "created_at": "2017-02-28", "closed_at": "2017-02-28", "labels": [], "State": "closed", "Author": "NilsHolger"}
+{"issue_number": 10446, "created_at": "2017-02-28", "closed_at": "2017-03-18", "labels": [], "State": "closed", "Author": "AnaMarria"}
+{"issue_number": 10445, "created_at": "2017-02-28", "closed_at": "2017-03-07", "labels": [], "State": "closed", "Author": "paramsingh88"}
+{"issue_number": 10443, "created_at": "2017-02-27", "closed_at": "2018-03-16", "labels": ["type: bug", "resolution: fixed", "ui: layout", "P4: minor"], "State": "closed", "Author": "FlorianBurgevin"}
+{"issue_number": 10442, "created_at": "2017-02-26", "closed_at": "2018-02-11", "labels": ["resolution: works as expected"], "State": "closed", "Author": "bfalzarano"}
+{"issue_number": 10440, "created_at": "2017-02-24", "closed_at": "2018-12-20", "labels": ["type: bug", "resolution: fixed", "ui: CSS", "browser: IE", "browser: FireFox", "ux: integration", "P2: required", "has: Pull Request"], "State": "closed", "Author": "fabian-protonx"}
+{"issue_number": 10439, "created_at": "2017-02-24", "closed_at": "2017-03-07", "labels": [], "State": "closed", "Author": "ilovett"}
+{"issue_number": 10438, "created_at": "2017-02-23", "closed_at": null, "labels": ["P5: nice to have"], "State": "open", "Author": "ekevoo"}
+{"issue_number": 10437, "created_at": "2017-02-23", "closed_at": "2017-02-23", "labels": [], "State": "closed", "Author": "stephengardner"}
+{"issue_number": 10436, "created_at": "2017-02-23", "closed_at": "2018-08-14", "labels": ["needs: demo", "resolution: can't reproduce"], "State": "closed", "Author": "gsjohal"}
+{"issue_number": 10435, "created_at": "2017-02-23", "closed_at": "2017-03-20", "labels": [], "State": "closed", "Author": "chrismortega"}
+{"issue_number": 10432, "created_at": "2017-02-22", "closed_at": "2018-02-18", "labels": ["resolution: fixed"], "State": "closed", "Author": "kdbruin"}
+{"issue_number": 10431, "created_at": "2017-02-22", "closed_at": "2020-05-15", "labels": ["type: enhancement", "i18n: localization", "ux: integration", "P2: required", "has: Pull Request"], "State": "closed", "Author": "simonered"}
+{"issue_number": 10430, "created_at": "2017-02-21", "closed_at": "2017-03-07", "labels": [], "State": "closed", "Author": "LoganDupont"}
+{"issue_number": 10429, "created_at": "2017-02-21", "closed_at": "2017-02-21", "labels": ["resolution: invalid"], "State": "closed", "Author": "pankajparkar"}
+{"issue_number": 10428, "created_at": "2017-02-21", "closed_at": "2017-03-07", "labels": [], "State": "closed", "Author": "hengun348"}
+{"issue_number": 10427, "created_at": "2017-02-20", "closed_at": "2018-04-08", "labels": ["resolution: works as expected"], "State": "closed", "Author": "cadilhac"}
+{"issue_number": 10426, "created_at": "2017-02-20", "closed_at": "2017-03-13", "labels": ["type: bug", "has: Pull Request"], "State": "closed", "Author": "brikkelt"}
+{"issue_number": 10425, "created_at": "2017-02-20", "closed_at": null, "labels": ["ui: CSS", "browser: IE", "needs: investigation", "P4: minor"], "State": "open", "Author": "Purushothama-VS"}
+{"issue_number": 10422, "created_at": "2017-02-19", "closed_at": "2017-05-10", "labels": ["has: Pull Request"], "State": "closed", "Author": "sebakerckhof"}
+{"issue_number": 10421, "created_at": "2017-02-19", "closed_at": "2017-03-13", "labels": [], "State": "closed", "Author": "sebakerckhof"}
+{"issue_number": 10420, "created_at": "2017-02-19", "closed_at": "2017-03-18", "labels": [], "State": "closed", "Author": "LabN36"}
+{"issue_number": 10419, "created_at": "2017-02-19", "closed_at": "2018-11-06", "labels": ["type: bug", "resolution: fixed", "a11y", "ui: focus", "severity: inconvenient", "ux: polish", "P2: required", "has: Pull Request"], "State": "closed", "Author": "frkfir"}
+{"issue_number": 10418, "created_at": "2017-02-19", "closed_at": "2018-07-12", "labels": ["needs: demo"], "State": "closed", "Author": "Nefcanto"}
+{"issue_number": 10417, "created_at": "2017-02-18", "closed_at": "2017-03-04", "labels": [], "State": "closed", "Author": "no-more"}
+{"issue_number": 10416, "created_at": "2017-02-18", "closed_at": "2018-09-18", "labels": ["needs: demo", "resolution: invalid"], "State": "closed", "Author": "swapnil001"}
+{"issue_number": 10415, "created_at": "2017-02-17", "closed_at": "2017-03-18", "labels": [], "State": "closed", "Author": "g2r"}
+{"issue_number": 10414, "created_at": "2017-02-17", "closed_at": "2017-03-18", "labels": [], "State": "closed", "Author": "Sunny-Kid"}
+{"issue_number": 10413, "created_at": "2017-02-17", "closed_at": "2020-06-15", "labels": ["type: bug", "severity: inconvenient", "ux: integration", "P4: minor", "has: Pull Request"], "State": "closed", "Author": "marshall007"}
+{"issue_number": 10411, "created_at": "2017-02-16", "closed_at": "2017-03-07", "labels": [], "State": "closed", "Author": "hafridign"}
+{"issue_number": 10410, "created_at": "2017-02-16", "closed_at": "2017-02-24", "labels": [], "State": "closed", "Author": "MoAsmar"}
